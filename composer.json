@@ -4,7 +4,7 @@
     "require": {
       "autoload": {
           "psr-4": {
-              "gluu_sso": "src/"
+              "Drupal\\gluu_sso\\Controller\\": "src/"
           }
       }
     },
