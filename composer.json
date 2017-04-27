@@ -6,7 +6,7 @@
           "psr-4": {
               "gluu_sso": "src/"
           }
-      },
+      }
     },
     "extra": {
         "installer-name": "gluu_sso"
