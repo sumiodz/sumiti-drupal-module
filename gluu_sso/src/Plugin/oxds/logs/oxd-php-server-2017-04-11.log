@@ -1,0 +1,1668 @@
+
+Tuesday 11th of April 2017 11:21:20 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:21:20 AM
+Client: oxd_socket_request634
+
+Tuesday 11th of April 2017 11:21:21 AM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"79d02bbf-9363-475c-ba43-a4bc2ece2108","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 11:21:21 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:21:21 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:21:21 AM
+Client: oxd_socket_request815
+
+Tuesday 11th of April 2017 11:21:22 AM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"f2c59888-7c71-47ce-a727-c184e0b0b910","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 11:21:22 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:21:33 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:21:33 AM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 11:21:33 AM
+Client: oxd_socket_response0378{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!EE71.6CB7.0671.EC8F&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=e1cu6s5btkd72hremcmpcklsln&nonce=1l2d7jg8bbctb2tvob9l898sa&acr_values=basic"}}
+
+Tuesday 11th of April 2017 11:21:33 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:25:59 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:25:59 AM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 11:25:59 AM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!EE71.6CB7.0671.EC8F&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=ta5uubs10fh6naf9oc6stdrrhg&nonce=7ap1ul1fdacpl9ljvprq3vpr5v&acr_values=basic"}}
+
+Tuesday 11th of April 2017 11:25:59 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:26:23 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:26:23 AM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 11:26:23 AM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!EE71.6CB7.0671.EC8F&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=f0gis53poofs8f41f54tliqola&nonce=j0kl0l194bhv5lc1sbee4o5o1f&acr_values=basic"}}
+
+Tuesday 11th of April 2017 11:26:23 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:26:48 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:26:48 AM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 11:26:48 AM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!EE71.6CB7.0671.EC8F&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=7ibp1k12u4kjdqljgij01d1nce&nonce=nsistbpn1bfofc31kvnn2u58fs&acr_values=basic"}}
+
+Tuesday 11th of April 2017 11:26:48 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:27:31 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:27:31 AM
+Client: oxd_socket_request634
+
+Tuesday 11th of April 2017 11:27:32 AM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"9403ca35-567e-4f92-bc4a-cba67b1c538e","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 11:27:32 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:27:32 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:27:32 AM
+Client: oxd_socket_request815
+
+Tuesday 11th of April 2017 11:27:34 AM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"ee089a17-2e29-472c-9376-cc784d37710b","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 11:27:34 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:27:47 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:27:47 AM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 11:27:47 AM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!190F.4706.803F.695B&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=1rms99kqp760pl0gsui49dalne&nonce=n7pnc6cnierehounlifp159mh9&acr_values=basic"}}
+
+Tuesday 11th of April 2017 11:27:47 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:30:47 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:30:47 AM
+Client: oxd_socket_request634
+
+Tuesday 11th of April 2017 11:30:50 AM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"4810acca-9628-4c65-a20c-979e73385375","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 11:30:50 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:30:50 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:30:50 AM
+Client: oxd_socket_request815
+
+Tuesday 11th of April 2017 11:30:56 AM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"650ddd1c-cea7-4049-adee-901da942cea7","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 11:30:56 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:31:06 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:31:06 AM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 11:31:06 AM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!065B.BF1A.93D5.D5BC&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=8gatovd9upf6ft4t2gpjtq576n&nonce=bnkr3g0jvdusjvjrkclotralqq&acr_values=basic"}}
+
+Tuesday 11th of April 2017 11:31:06 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:35:49 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:35:49 AM
+Client: oxd_socket_request634
+
+Tuesday 11th of April 2017 11:35:51 AM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"0788d1f6-0704-41d3-9d22-b454b83d5f5f","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 11:35:51 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:35:51 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:35:51 AM
+Client: oxd_socket_request815
+
+Tuesday 11th of April 2017 11:35:52 AM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"dcd01c33-d415-4167-b44a-0d0d9daf24e4","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 11:35:52 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:36:02 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:36:02 AM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 11:36:02 AM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!B4B7.28D4.3E29.07B0&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=4ah9792a0s90kns1l1k3hpk6qb&nonce=tt2sgc9mh0h9r88eet38m3snel&acr_values=basic"}}
+
+Tuesday 11th of April 2017 11:36:02 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:37:23 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:37:23 AM
+Client: oxd_socket_request634
+
+Tuesday 11th of April 2017 11:37:24 AM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"61a1bae1-bb5c-4d54-aa67-1571630682ad","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 11:37:24 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:37:24 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:37:24 AM
+Client: oxd_socket_request815
+
+Tuesday 11th of April 2017 11:37:29 AM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"0455e8c6-edf3-4361-b1a0-d71f69ac2e4e","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 11:37:29 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:37:42 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:37:42 AM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 11:37:42 AM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!378D.6A31.1249.EEA5&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=ilrs9e0jjsv47p246aupsjgdso&nonce=bt45rg5ibegp2j0buh9n09htg4&acr_values=basic"}}
+
+Tuesday 11th of April 2017 11:37:42 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:41:18 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:41:18 AM
+Client: oxd_socket_request634
+
+Tuesday 11th of April 2017 11:41:19 AM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"2985f532-a555-4c9a-b318-5921f73023a5","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 11:41:19 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:41:19 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:41:19 AM
+Client: oxd_socket_request815
+
+Tuesday 11th of April 2017 11:41:20 AM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"8fbaf1c0-f6aa-4f66-b932-f3e335a0aa59","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 11:41:20 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:41:32 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:41:32 AM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 11:41:32 AM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!FC32.13A4.D9E4.350F&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=thn5bd7rmjqfkaqn219rj82kp8&nonce=ss680dra36ksle220ta2uj3t93&acr_values=basic"}}
+
+Tuesday 11th of April 2017 11:41:32 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:43:55 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:43:55 AM
+Client: oxd_socket_request634
+
+Tuesday 11th of April 2017 11:43:58 AM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"46b99e22-2d30-4698-b2eb-545abf31dae1","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 11:43:58 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:43:58 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:43:58 AM
+Client: oxd_socket_request815
+
+Tuesday 11th of April 2017 11:44:01 AM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"266be6b9-7d33-460d-8e20-b6a50f7b618e","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 11:44:01 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:44:20 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:44:20 AM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 11:44:20 AM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!1796.A3F9.4C66.B187&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=u6tl9nd7jgk5n5ag7std2hgfto&nonce=kv4l7tq7imodoh89h0p5qoljqm&acr_values=basic"}}
+
+Tuesday 11th of April 2017 11:44:20 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:45:11 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:45:11 AM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 11:45:11 AM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!1796.A3F9.4C66.B187&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=o10gemdfielv85tjj05vmj1118&nonce=hi98b0aceab9t4g2epc52ne3ar&acr_values=basic"}}
+
+Tuesday 11th of April 2017 11:45:11 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:45:28 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:45:28 AM
+Client: oxd_socket_request634
+
+Tuesday 11th of April 2017 11:45:29 AM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"27ff36cb-4f08-4157-9625-a37ec6e0a61f","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 11:45:29 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:45:29 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:45:29 AM
+Client: oxd_socket_request815
+
+Tuesday 11th of April 2017 11:45:30 AM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"661c598c-3e8b-4ddc-9499-bb128ed3d22e","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 11:45:30 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:45:45 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:45:45 AM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 11:45:45 AM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!8B19.6DD4.D7FD.09FA&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=hqor7ldf7sg27ag3aceme9cfm4&nonce=r3q00aa11loa8ckvmd8n9k7a2l&acr_values=basic"}}
+
+Tuesday 11th of April 2017 11:45:45 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:48:07 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:48:07 AM
+Client: oxd_socket_request634
+
+Tuesday 11th of April 2017 11:48:09 AM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"26d82361-0856-4ffc-9ddc-4b2e7a3186a8","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 11:48:09 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:48:09 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:48:09 AM
+Client: oxd_socket_request815
+
+Tuesday 11th of April 2017 11:48:10 AM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"9e6d343c-e868-41c5-af12-cdb8ff621c65","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 11:48:10 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:48:21 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:48:21 AM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 11:48:21 AM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!5F6B.41D3.4552.989D&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=i3p9pj2po0404roid8hllght9j&nonce=2tcfvg2jlpgjm7ivmvf7srh8c9&acr_values=basic"}}
+
+Tuesday 11th of April 2017 11:48:21 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:54:53 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:54:53 AM
+Client: oxd_socket_request634
+
+Tuesday 11th of April 2017 11:54:54 AM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"bf1750c2-086f-43bc-97ac-2ef3d87344fe","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 11:54:54 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:54:54 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:54:54 AM
+Client: oxd_socket_request815
+
+Tuesday 11th of April 2017 11:54:55 AM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"21076db8-5182-4b0a-9215-0daaa2d9ecb9","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 11:54:55 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:57:09 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:57:09 AM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 11:57:09 AM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!A506.CB49.1FEB.D77C&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=8qee6hco4u98rufe9rpvekjg2g&nonce=2ff99sk81sgrvhqrj68nhlmk8p&acr_values=basic"}}
+
+Tuesday 11th of April 2017 11:57:09 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:57:14 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:57:14 AM
+Client: oxd_socket_request178
+
+Tuesday 11th of April 2017 11:57:17 AM
+Client: oxd_socket_response1942{"status":"ok","data":{"access_token":"f506db89-5541-447b-a139-8ff2ac0061ca","expires_in":299,"id_token":"eyJraWQiOiJjNWJjYTk4ZS0wNGRhLTQ5NjEtYjQwMC0yMmQ0Yjk5NTM0MjQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwczovL2NlLWRldjIuZ2x1dS5vcmciLCJhdWQiOiJAITgyQTIuODlBOC5GRTBFLjkwREUhMDAwMSFENUYwLjREQjQhMDAwOCFBNTA2LkNCNDkuMUZFQi5ENzdDIiwiZXhwIjoxNDkxOTE1NDM1LCJpYXQiOjE0OTE5MTE4MzUsImFjciI6ImJhc2ljIiwiYW1yIjoiW10iLCJub25jZSI6IjJmZjk5c2s4MXNncnZocXJqNjhuaGxtazhwIiwiYXV0aF90aW1lIjoxNDkxOTEwNjc0LCJhdF9oYXNoIjoiYjdUblJlVmtqQXFTMnFhdmFoTXhhZyIsIm94VmFsaWRhdGlvblVSSSI6Imh0dHBzOi8vY2UtZGV2Mi5nbHV1Lm9yZy9veGF1dGgvb3BpZnJhbWUiLCJveE9wZW5JRENvbm5lY3RWZXJzaW9uIjoib3BlbmlkY29ubmVjdC0xLjAiLCJuYW1lIjoiaW5kZXJwYWwiLCJmYW1pbHlfbmFtZSI6ImluZGVycGFsMiIsImdpdmVuX25hbWUiOiJpbmRlcnBhbDEiLCJ1cGRhdGVkX2F0IjoiMjAxNzAzMTAwODE5MjkuMTgwWiIsImVtYWlsIjoiaW5kZXJwYWxAdGVzdC5jb20iLCJzdWIiOiJuRXY0eWxmNjgxN1dkbHhiRURNcWxnWVlhb0twUURBcE14eVFuekNNTkFjIn0.TywjSOBwJvYGQ6fJpd9GPtMsEss9Bka4pSQc1ZX1CqGUOLAz8ZP4Xvxjqv46bIqIlDnhV9OtE_IAdPPuffabEgxZBymKzY6Sfs248T-M3VkgBh1xAT01ZQkr7A8Go8qGFnb41L6iQhmnxqqWhnB9oFVrmypIMywo7Ippmw16egljWIBI04jZxJeE_OmcaM3v_pZy0cEs8WZVeNVV6xnqdBUBmG_NzqzIswL4YSFu1mKZNXBnHIk4fDN0hHvd8as6ghpSWloPQMpPh93vsvxJxTuMVvk4_Ps8H-I6F2CyKJh-67HjWc7be6h3kOEXRJFRnCzzncI_yxfNmsGtO247uA","refresh_token":"4cf1720f-4fdb-497d-9e26-093310806b3f","id_token_claims":{"at_hash":["b7TnReVkjAqS2qavahMxag"],"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"amr":["[]"],"iss":["https://ce-dev2.gluu.org"],"given_name":["inderpal1"],"nonce":["2ff99sk81sgrvhqrj68nhlmk8p"],"oxValidationURI":["https://ce-dev2.gluu.org/oxauth/opiframe"],"oxOpenIDConnectVersion":["openidconnect-1.0"],"aud":["@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!A506.CB49.1FEB.D77C"],"acr":["basic"],"updated_at":["20170310081929.180Z"],"auth_time":["1491910674"],"name":["inderpal"],"exp":["1491915435"],"iat":["1491911835"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 11:57:17 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:57:17 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:57:17 AM
+Client: oxd_socket_request144
+
+Tuesday 11th of April 2017 11:57:18 AM
+Client: oxd_socket_response0231{"status":"ok","data":{"claims":{"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"updated_at":["20170310081929.180Z"],"name":["inderpal"],"given_name":["inderpal1"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 11:57:18 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 11:57:41 AM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 11:57:41 AM
+Client: oxd_socket_request178
+
+Tuesday 11th of April 2017 11:57:41 AM
+Client: oxd_socket_response0098{"status":"error","data":{"error":"bad_request","error_description":"'state' is not registered."}}
+
+Tuesday 11th of April 2017 11:57:41 AM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:08:28 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:08:28 PM
+Client: oxd_socket_request634
+
+Tuesday 11th of April 2017 12:08:29 PM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"baf75dac-b7a5-4601-aaa7-7f25c8644eb8","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 12:08:29 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:08:29 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:08:29 PM
+Client: oxd_socket_request815
+
+Tuesday 11th of April 2017 12:08:31 PM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"a3bed136-1b17-4764-9924-80327392498e","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 12:08:31 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:09:49 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:09:49 PM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 12:09:49 PM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!9CD6.FAB6.0875.4027&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=jtqo4uug9ba5t37l88347b3ui3&nonce=kmbtt724qqrljlqdek86sfspc0&acr_values=basic"}}
+
+Tuesday 11th of April 2017 12:09:49 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:09:52 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:09:52 PM
+Client: oxd_socket_request178
+
+Tuesday 11th of April 2017 12:09:55 PM
+Client: oxd_socket_response1942{"status":"ok","data":{"access_token":"0a516015-f71d-4dbe-9ca0-dfe9d4ece3bf","expires_in":299,"id_token":"eyJraWQiOiJjNWJjYTk4ZS0wNGRhLTQ5NjEtYjQwMC0yMmQ0Yjk5NTM0MjQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwczovL2NlLWRldjIuZ2x1dS5vcmciLCJhdWQiOiJAITgyQTIuODlBOC5GRTBFLjkwREUhMDAwMSFENUYwLjREQjQhMDAwOCE5Q0Q2LkZBQjYuMDg3NS40MDI3IiwiZXhwIjoxNDkxOTE2MTk0LCJpYXQiOjE0OTE5MTI1OTQsImFjciI6ImJhc2ljIiwiYW1yIjoiW10iLCJub25jZSI6ImttYnR0NzI0cXFybGpscWRlazg2c2ZzcGMwIiwiYXV0aF90aW1lIjoxNDkxOTEwNjc0LCJhdF9oYXNoIjoiWmxGSFZqdVVhT3kybnI5dE11RWdudyIsIm94VmFsaWRhdGlvblVSSSI6Imh0dHBzOi8vY2UtZGV2Mi5nbHV1Lm9yZy9veGF1dGgvb3BpZnJhbWUiLCJveE9wZW5JRENvbm5lY3RWZXJzaW9uIjoib3BlbmlkY29ubmVjdC0xLjAiLCJuYW1lIjoiaW5kZXJwYWwiLCJmYW1pbHlfbmFtZSI6ImluZGVycGFsMiIsImdpdmVuX25hbWUiOiJpbmRlcnBhbDEiLCJ1cGRhdGVkX2F0IjoiMjAxNzAzMTAwODE5MjkuMTgwWiIsImVtYWlsIjoiaW5kZXJwYWxAdGVzdC5jb20iLCJzdWIiOiJuRXY0eWxmNjgxN1dkbHhiRURNcWxnWVlhb0twUURBcE14eVFuekNNTkFjIn0.Q3uuBoxrigKDodU9jjVFli5YF7Cggw-QmryC6Uz864Eg05Zh3C9otqKNKamL-pYhpRQyQFlzdD8f8jgnQ9enodbmzUv6c3N0clfGMHODhdXirbFNbX4k50OWF_nkBLNtp2a20H0-mJz5Kw6ZgGhKh3ldCT6J6ouIMJhcY1Gyr2lj_-WYJHX7GtmYwQE7bxVb_5icF4OvbH0FpAPiO5_Ut7A3qDj7_QjAlKQOJCwkeOf7zjNMJ5IcE5VjYAqx11jBnme09_XeSdScohyKRIkfKjZJ5aoogyAlu0_5-uM8jQ-aZFjBJjIyf71C_EZ3Du1TNAbCLFH7qENb0r1C-4jNEA","refresh_token":"75a896ae-0d1d-429f-92f0-b47100ce883e","id_token_claims":{"at_hash":["ZlFHVjuUaOy2nr9tMuEgnw"],"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"amr":["[]"],"iss":["https://ce-dev2.gluu.org"],"given_name":["inderpal1"],"nonce":["kmbtt724qqrljlqdek86sfspc0"],"oxValidationURI":["https://ce-dev2.gluu.org/oxauth/opiframe"],"oxOpenIDConnectVersion":["openidconnect-1.0"],"aud":["@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!9CD6.FAB6.0875.4027"],"acr":["basic"],"updated_at":["20170310081929.180Z"],"auth_time":["1491910674"],"name":["inderpal"],"exp":["1491916194"],"iat":["1491912594"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 12:09:55 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:09:55 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:09:55 PM
+Client: oxd_socket_request144
+
+Tuesday 11th of April 2017 12:09:56 PM
+Client: oxd_socket_response0231{"status":"ok","data":{"claims":{"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"updated_at":["20170310081929.180Z"],"name":["inderpal"],"given_name":["inderpal1"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 12:09:56 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:11:40 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:11:40 PM
+Client: oxd_socket_request634
+
+Tuesday 11th of April 2017 12:11:42 PM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"d845d18f-7d06-457d-b5f7-4f1f9dc0cff6","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 12:11:42 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:11:42 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:11:42 PM
+Client: oxd_socket_request815
+
+Tuesday 11th of April 2017 12:11:43 PM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"6c01c7af-cfa9-4108-9e67-2f9b4504a47f","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 12:11:43 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:11:57 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:11:57 PM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 12:11:57 PM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!A041.8F74.F10F.87E6&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=jtr8cppb1gt1n24ojvph72t60a&nonce=vdv8bqbn2e929gjuj271oetsrr&acr_values=basic"}}
+
+Tuesday 11th of April 2017 12:11:57 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:17:25 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:17:25 PM
+Client: oxd_socket_request634
+
+Tuesday 11th of April 2017 12:17:26 PM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"37d51d85-a3e0-47c6-aa4f-87ed00ea693c","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 12:17:26 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:17:26 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:17:26 PM
+Client: oxd_socket_request815
+
+Tuesday 11th of April 2017 12:17:28 PM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"3066d546-ca56-4f87-a045-c95450a0cacb","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 12:17:28 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:17:44 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:17:44 PM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 12:17:44 PM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!FA67.03A6.B050.8664&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=q9qkdhdl2hg427mu6eqdn6vj2t&nonce=hhee4603grkb85cblk6nvnk50f&acr_values=basic"}}
+
+Tuesday 11th of April 2017 12:17:44 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:17:49 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:17:49 PM
+Client: oxd_socket_request178
+
+Tuesday 11th of April 2017 12:17:52 PM
+Client: oxd_socket_response1942{"status":"ok","data":{"access_token":"cf80c081-40e3-4ed1-9884-570cf55f21ff","expires_in":299,"id_token":"eyJraWQiOiJjNWJjYTk4ZS0wNGRhLTQ5NjEtYjQwMC0yMmQ0Yjk5NTM0MjQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwczovL2NlLWRldjIuZ2x1dS5vcmciLCJhdWQiOiJAITgyQTIuODlBOC5GRTBFLjkwREUhMDAwMSFENUYwLjREQjQhMDAwOCFGQTY3LjAzQTYuQjA1MC44NjY0IiwiZXhwIjoxNDkxOTE2NjcwLCJpYXQiOjE0OTE5MTMwNzAsImFjciI6ImJhc2ljIiwiYW1yIjoiW10iLCJub25jZSI6ImhoZWU0NjAzZ3JrYjg1Y2JsazZudm5rNTBmIiwiYXV0aF90aW1lIjoxNDkxOTEwNjc0LCJhdF9oYXNoIjoiY2VFUmV1U2NiNkFyWG5oM25HdlJrUSIsIm94VmFsaWRhdGlvblVSSSI6Imh0dHBzOi8vY2UtZGV2Mi5nbHV1Lm9yZy9veGF1dGgvb3BpZnJhbWUiLCJveE9wZW5JRENvbm5lY3RWZXJzaW9uIjoib3BlbmlkY29ubmVjdC0xLjAiLCJuYW1lIjoiaW5kZXJwYWwiLCJmYW1pbHlfbmFtZSI6ImluZGVycGFsMiIsImdpdmVuX25hbWUiOiJpbmRlcnBhbDEiLCJ1cGRhdGVkX2F0IjoiMjAxNzAzMTAwODE5MjkuMTgwWiIsImVtYWlsIjoiaW5kZXJwYWxAdGVzdC5jb20iLCJzdWIiOiJuRXY0eWxmNjgxN1dkbHhiRURNcWxnWVlhb0twUURBcE14eVFuekNNTkFjIn0.gsIuAqvlWSkxT5nFmU1tT8gfDGhEYrYW9Xn7xQT3zOWg-yfVFHYNUShuV_JbQ6zB4mxJ-h5LjbnaoJVALKEKsVa12uwI9NQcOTRY8NYqyijN8ytsjbW5vFfWiNvx7NgfiiqREwVHZhfNcT2vKtXpFoltifj4yzjkDaLCamXl1g5jpUM-le_5_rVMhROkv_8Ba9rlQxRfNipHfPWYDa1ld67Ij2Wy6KS5oshICiXEOeBehNc66AaMa1Tk3g0UO6s9VK58TstYG3wAg8NGC8Z2aNvMsn7slkhQvNbxT3G3H9g6G1H4Q87ifXZo_M7YsqSKomH9eLWDgFsO_l2ioE1SpA","refresh_token":"c04006b1-3ce5-453f-a1f3-3d07881c048a","id_token_claims":{"at_hash":["ceEReuScb6ArXnh3nGvRkQ"],"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"amr":["[]"],"iss":["https://ce-dev2.gluu.org"],"given_name":["inderpal1"],"nonce":["hhee4603grkb85cblk6nvnk50f"],"oxValidationURI":["https://ce-dev2.gluu.org/oxauth/opiframe"],"oxOpenIDConnectVersion":["openidconnect-1.0"],"aud":["@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!FA67.03A6.B050.8664"],"acr":["basic"],"updated_at":["20170310081929.180Z"],"auth_time":["1491910674"],"name":["inderpal"],"exp":["1491916670"],"iat":["1491913070"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 12:17:52 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:17:52 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:17:52 PM
+Client: oxd_socket_request144
+
+Tuesday 11th of April 2017 12:17:53 PM
+Client: oxd_socket_response0231{"status":"ok","data":{"claims":{"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"updated_at":["20170310081929.180Z"],"name":["inderpal"],"given_name":["inderpal1"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 12:17:53 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:18:18 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:18:18 PM
+Client: oxd_socket_request178
+
+Tuesday 11th of April 2017 12:18:18 PM
+Client: oxd_socket_response0098{"status":"error","data":{"error":"bad_request","error_description":"'state' is not registered."}}
+
+Tuesday 11th of April 2017 12:18:18 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:18:39 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:18:39 PM
+Client: oxd_socket_request634
+
+Tuesday 11th of April 2017 12:18:45 PM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"7fc8a165-afd7-497a-97c9-f32593ba399c","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 12:18:45 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:18:45 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:18:45 PM
+Client: oxd_socket_request815
+
+Tuesday 11th of April 2017 12:18:46 PM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"06987e92-8a90-4c44-a028-e92e73c42430","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 12:18:46 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:18:59 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:18:59 PM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 12:18:59 PM
+Client: oxd_socket_response0378{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!BB6C.FF1F.58B2.F4AD&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=qkunmop9nmnqaq5pno5s12oh0&nonce=okiofrsgf2asboj5jrsiloi6fm&acr_values=basic"}}
+
+Tuesday 11th of April 2017 12:18:59 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:19:03 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:19:03 PM
+Client: oxd_socket_request177
+
+Tuesday 11th of April 2017 12:19:05 PM
+Client: oxd_socket_response1942{"status":"ok","data":{"access_token":"9f91486f-afc6-4113-a255-a4124a54f9e7","expires_in":299,"id_token":"eyJraWQiOiJjNWJjYTk4ZS0wNGRhLTQ5NjEtYjQwMC0yMmQ0Yjk5NTM0MjQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwczovL2NlLWRldjIuZ2x1dS5vcmciLCJhdWQiOiJAITgyQTIuODlBOC5GRTBFLjkwREUhMDAwMSFENUYwLjREQjQhMDAwOCFCQjZDLkZGMUYuNThCMi5GNEFEIiwiZXhwIjoxNDkxOTE2NzQ0LCJpYXQiOjE0OTE5MTMxNDQsImFjciI6ImJhc2ljIiwiYW1yIjoiW10iLCJub25jZSI6Im9raW9mcnNnZjJhc2JvajVqcnNpbG9pNmZtIiwiYXV0aF90aW1lIjoxNDkxOTEwNjc0LCJhdF9oYXNoIjoidk1TVF9oUUt5RGhfVjRuZWdVR1JTUSIsIm94VmFsaWRhdGlvblVSSSI6Imh0dHBzOi8vY2UtZGV2Mi5nbHV1Lm9yZy9veGF1dGgvb3BpZnJhbWUiLCJveE9wZW5JRENvbm5lY3RWZXJzaW9uIjoib3BlbmlkY29ubmVjdC0xLjAiLCJuYW1lIjoiaW5kZXJwYWwiLCJmYW1pbHlfbmFtZSI6ImluZGVycGFsMiIsImdpdmVuX25hbWUiOiJpbmRlcnBhbDEiLCJ1cGRhdGVkX2F0IjoiMjAxNzAzMTAwODE5MjkuMTgwWiIsImVtYWlsIjoiaW5kZXJwYWxAdGVzdC5jb20iLCJzdWIiOiJuRXY0eWxmNjgxN1dkbHhiRURNcWxnWVlhb0twUURBcE14eVFuekNNTkFjIn0.n9QI4mCdu4lxuQGYNlTtrWdHdpsHtTJ7Gi5xxazpa4wOPKeQ72bIypxc87KEKbozqsUT0UNAN0SuENEtfB5-EsukvKqNnrZxo8XJ5T8bc_Q4DppjLZF3UU5LoT9Ofyga1aS8wcyQhzyzlYR-hL2p_KgZvApoJ84zymgHp5s3p84DDeF7J7PfxBvipm4Ezsyxpjen56EtQjwHQ8vWe6pOoDlkf3Coi7ddafDeLryZ89BLFp7FRoURnJy2YVpLmf4K5JE7Uz0lJJF0uOt_oGWY_zVxLrLcfTyZwA4Q2jjAV5NTXeJ_Djk8qZetKEjOzE7sdcNKvmu1OOyDoynlzu50Nw","refresh_token":"97081cf4-4447-4139-89b2-afaf50791b58","id_token_claims":{"at_hash":["vMST_hQKyDh_V4negUGRSQ"],"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"amr":["[]"],"iss":["https://ce-dev2.gluu.org"],"given_name":["inderpal1"],"nonce":["okiofrsgf2asboj5jrsiloi6fm"],"oxValidationURI":["https://ce-dev2.gluu.org/oxauth/opiframe"],"oxOpenIDConnectVersion":["openidconnect-1.0"],"aud":["@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!BB6C.FF1F.58B2.F4AD"],"acr":["basic"],"updated_at":["20170310081929.180Z"],"auth_time":["1491910674"],"name":["inderpal"],"exp":["1491916744"],"iat":["1491913144"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 12:19:05 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:19:05 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:19:05 PM
+Client: oxd_socket_request144
+
+Tuesday 11th of April 2017 12:19:06 PM
+Client: oxd_socket_response0231{"status":"ok","data":{"claims":{"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"updated_at":["20170310081929.180Z"],"name":["inderpal"],"given_name":["inderpal1"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 12:19:06 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:24:25 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:24:25 PM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 12:24:25 PM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!BB6C.FF1F.58B2.F4AD&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=sh7onpfdgem9rtd5jkapi5i6is&nonce=878vluchcdp6d6ogbj940336t9&acr_values=basic"}}
+
+Tuesday 11th of April 2017 12:24:25 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:24:27 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:24:27 PM
+Client: oxd_socket_request178
+
+Tuesday 11th of April 2017 12:24:29 PM
+Client: oxd_socket_response1942{"status":"ok","data":{"access_token":"2b11c25e-8ece-4aba-a8b9-3b16e1f2ba21","expires_in":299,"id_token":"eyJraWQiOiJjNWJjYTk4ZS0wNGRhLTQ5NjEtYjQwMC0yMmQ0Yjk5NTM0MjQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwczovL2NlLWRldjIuZ2x1dS5vcmciLCJhdWQiOiJAITgyQTIuODlBOC5GRTBFLjkwREUhMDAwMSFENUYwLjREQjQhMDAwOCFCQjZDLkZGMUYuNThCMi5GNEFEIiwiZXhwIjoxNDkxOTE3MDY4LCJpYXQiOjE0OTE5MTM0NjgsImFjciI6ImJhc2ljIiwiYW1yIjoiW10iLCJub25jZSI6Ijg3OHZsdWNoY2RwNmQ2b2diajk0MDMzNnQ5IiwiYXV0aF90aW1lIjoxNDkxOTEwNjc0LCJhdF9oYXNoIjoia2NXVVdnbVhZWV85MlJiOEc2bUR2dyIsIm94VmFsaWRhdGlvblVSSSI6Imh0dHBzOi8vY2UtZGV2Mi5nbHV1Lm9yZy9veGF1dGgvb3BpZnJhbWUiLCJveE9wZW5JRENvbm5lY3RWZXJzaW9uIjoib3BlbmlkY29ubmVjdC0xLjAiLCJuYW1lIjoiaW5kZXJwYWwiLCJmYW1pbHlfbmFtZSI6ImluZGVycGFsMiIsImdpdmVuX25hbWUiOiJpbmRlcnBhbDEiLCJ1cGRhdGVkX2F0IjoiMjAxNzAzMTAwODE5MjkuMTgwWiIsImVtYWlsIjoiaW5kZXJwYWxAdGVzdC5jb20iLCJzdWIiOiJuRXY0eWxmNjgxN1dkbHhiRURNcWxnWVlhb0twUURBcE14eVFuekNNTkFjIn0.PXrFsfQh6kKeGJ815XA7dI5bRDH5MAreQuYZ0lWz_SEaFSl-8liFfeTB_fBocqZVTdB-NaTS_akSqG8nG-8WaHP6Zl7k5kwlKS633-Yynl0VbAkFFRZCbMPOnV76z50Fwi_s4TkawPlcTAk6pC1v_YbALHl5xIc5NrNEsfFsPvm6i-WAOzquJov04KitTpGCsvLJLgqrV6Wf0Ia6WfJA6eTRor75o3VxYKaCYuBL8bmvK14zcmXoL8ktXVtpDqEgfOcHWXy4Ynww6Kw6Q-H0HoozSRJmOW7xvu0isZmzZSR9m0byN-bxVqR3QScjOnSyGGGBpJ4fp25_jANkPJsJPw","refresh_token":"d1d643fa-a293-4973-ad19-ec117ac1973a","id_token_claims":{"at_hash":["kcWUWgmXYY_92Rb8G6mDvw"],"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"amr":["[]"],"iss":["https://ce-dev2.gluu.org"],"given_name":["inderpal1"],"nonce":["878vluchcdp6d6ogbj940336t9"],"oxValidationURI":["https://ce-dev2.gluu.org/oxauth/opiframe"],"oxOpenIDConnectVersion":["openidconnect-1.0"],"aud":["@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!BB6C.FF1F.58B2.F4AD"],"acr":["basic"],"updated_at":["20170310081929.180Z"],"auth_time":["1491910674"],"name":["inderpal"],"exp":["1491917068"],"iat":["1491913468"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 12:24:29 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:24:29 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:24:29 PM
+Client: oxd_socket_request144
+
+Tuesday 11th of April 2017 12:24:30 PM
+Client: oxd_socket_response0231{"status":"ok","data":{"claims":{"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"updated_at":["20170310081929.180Z"],"name":["inderpal"],"given_name":["inderpal1"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 12:24:30 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:27:30 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:27:30 PM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 12:27:30 PM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!BB6C.FF1F.58B2.F4AD&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=2cjvhib8qdrrqil73gj1rtl9io&nonce=29bbsp727saioma988q7qo9iub&acr_values=basic"}}
+
+Tuesday 11th of April 2017 12:27:30 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:27:32 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:27:32 PM
+Client: oxd_socket_request178
+
+Tuesday 11th of April 2017 12:27:35 PM
+Client: oxd_socket_response1942{"status":"ok","data":{"access_token":"3348e3fa-c47b-4b8c-96a8-831187824a8c","expires_in":299,"id_token":"eyJraWQiOiJjNWJjYTk4ZS0wNGRhLTQ5NjEtYjQwMC0yMmQ0Yjk5NTM0MjQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwczovL2NlLWRldjIuZ2x1dS5vcmciLCJhdWQiOiJAITgyQTIuODlBOC5GRTBFLjkwREUhMDAwMSFENUYwLjREQjQhMDAwOCFCQjZDLkZGMUYuNThCMi5GNEFEIiwiZXhwIjoxNDkxOTE3MjUzLCJpYXQiOjE0OTE5MTM2NTMsImFjciI6ImJhc2ljIiwiYW1yIjoiW10iLCJub25jZSI6IjI5YmJzcDcyN3NhaW9tYTk4OHE3cW85aXViIiwiYXV0aF90aW1lIjoxNDkxOTEwNjc0LCJhdF9oYXNoIjoibTh4YmNxaG5iZ2lsb0paWlJ6LWxDdyIsIm94VmFsaWRhdGlvblVSSSI6Imh0dHBzOi8vY2UtZGV2Mi5nbHV1Lm9yZy9veGF1dGgvb3BpZnJhbWUiLCJveE9wZW5JRENvbm5lY3RWZXJzaW9uIjoib3BlbmlkY29ubmVjdC0xLjAiLCJuYW1lIjoiaW5kZXJwYWwiLCJmYW1pbHlfbmFtZSI6ImluZGVycGFsMiIsImdpdmVuX25hbWUiOiJpbmRlcnBhbDEiLCJ1cGRhdGVkX2F0IjoiMjAxNzAzMTAwODE5MjkuMTgwWiIsImVtYWlsIjoiaW5kZXJwYWxAdGVzdC5jb20iLCJzdWIiOiJuRXY0eWxmNjgxN1dkbHhiRURNcWxnWVlhb0twUURBcE14eVFuekNNTkFjIn0.QIigswrOzIzYiNAluvSsBURoVyV3V86PUXHz5C3IN4nPFka8O7JF8NpVq3DjLVKeBY8GtxwcN6_iXteWRxAufzzlmcgQ-LT5Jo-1DzgkISJXoYRcvXs3hnnZ_NgsO45u8I8ThtvwRBnmPr7tw1DtCAcg1ICAToHb-wpFy_Rx68OyodbDFMZfd73mGvy4vpGdOl5uPgD7AIWX9MnW6xNEjJniSapPKqPnPK2J5Oeku_9iK2BygMrArA5omQkQmCmF9HN8EpeKP3_HjA-g-vux17jEASEhx8Iagv-xjDtXC88adB0WGftXGu4oqQLzir_ng-vY6e6NoGUYk_0eCDIxrw","refresh_token":"8b4825c7-acf2-4b2d-b1f9-b689baa5ecb1","id_token_claims":{"at_hash":["m8xbcqhnbgiloJZZRz-lCw"],"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"amr":["[]"],"iss":["https://ce-dev2.gluu.org"],"given_name":["inderpal1"],"nonce":["29bbsp727saioma988q7qo9iub"],"oxValidationURI":["https://ce-dev2.gluu.org/oxauth/opiframe"],"oxOpenIDConnectVersion":["openidconnect-1.0"],"aud":["@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!BB6C.FF1F.58B2.F4AD"],"acr":["basic"],"updated_at":["20170310081929.180Z"],"auth_time":["1491910674"],"name":["inderpal"],"exp":["1491917253"],"iat":["1491913653"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 12:27:35 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:27:35 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:27:35 PM
+Client: oxd_socket_request144
+
+Tuesday 11th of April 2017 12:27:36 PM
+Client: oxd_socket_response0231{"status":"ok","data":{"claims":{"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"updated_at":["20170310081929.180Z"],"name":["inderpal"],"given_name":["inderpal1"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 12:27:36 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:31:44 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:31:44 PM
+Client: oxd_socket_request634
+
+Tuesday 11th of April 2017 12:31:45 PM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"2edb474d-6e80-4cd2-803e-395bdcb47582","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 12:31:45 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:31:45 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:31:45 PM
+Client: oxd_socket_request815
+
+Tuesday 11th of April 2017 12:31:47 PM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"c2471037-c4dd-40b8-a23a-e12298377024","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 12:31:47 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:32:01 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:32:01 PM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 12:32:01 PM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!89DA.336F.BF58.3F51&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=i0rvlbv7sca7eggmjbgmm55loe&nonce=t521101a06h5apoemospe65l1t&acr_values=basic"}}
+
+Tuesday 11th of April 2017 12:32:01 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:32:09 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:32:09 PM
+Client: oxd_socket_request178
+
+Tuesday 11th of April 2017 12:32:11 PM
+Client: oxd_socket_response1942{"status":"ok","data":{"access_token":"dde03017-9f84-4881-9c79-36a50a2fb4d8","expires_in":299,"id_token":"eyJraWQiOiJjNWJjYTk4ZS0wNGRhLTQ5NjEtYjQwMC0yMmQ0Yjk5NTM0MjQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwczovL2NlLWRldjIuZ2x1dS5vcmciLCJhdWQiOiJAITgyQTIuODlBOC5GRTBFLjkwREUhMDAwMSFENUYwLjREQjQhMDAwOCE4OURBLjMzNkYuQkY1OC4zRjUxIiwiZXhwIjoxNDkxOTE3NTMwLCJpYXQiOjE0OTE5MTM5MzAsImFjciI6ImJhc2ljIiwiYW1yIjoiW10iLCJub25jZSI6InQ1MjExMDFhMDZoNWFwb2Vtb3NwZTY1bDF0IiwiYXV0aF90aW1lIjoxNDkxOTEwNjc0LCJhdF9oYXNoIjoiZkhpSDhNLTl2RS1HRHlrQzlMNjlUUSIsIm94VmFsaWRhdGlvblVSSSI6Imh0dHBzOi8vY2UtZGV2Mi5nbHV1Lm9yZy9veGF1dGgvb3BpZnJhbWUiLCJveE9wZW5JRENvbm5lY3RWZXJzaW9uIjoib3BlbmlkY29ubmVjdC0xLjAiLCJuYW1lIjoiaW5kZXJwYWwiLCJmYW1pbHlfbmFtZSI6ImluZGVycGFsMiIsImdpdmVuX25hbWUiOiJpbmRlcnBhbDEiLCJ1cGRhdGVkX2F0IjoiMjAxNzAzMTAwODE5MjkuMTgwWiIsImVtYWlsIjoiaW5kZXJwYWxAdGVzdC5jb20iLCJzdWIiOiJuRXY0eWxmNjgxN1dkbHhiRURNcWxnWVlhb0twUURBcE14eVFuekNNTkFjIn0.h4wC2e4To3T8uNw5JRafj7Fgxzyo84PEFdsRtM70BMyAuvw9xlDuADeIrGLcd3FE0Uvdn42nKjqeT29zyVtuVv_4vc8vaX-TpNOTSDmeaT9JCHWO-ssDB_286a9V56j1PRNeKAMlATjl0pSESm8s3QlcJkJCz6Ys0vMzrEize5-RnCqoXetE1Y9uVYYqB3UDLBws00cgbbpkfOu8f-DjywU-6iS06nzyDQaBcEIvAWdrAIhEvp0UdM5uxffDPa9BaipUK4rr40LOZKIwMaqIdZLXyB1__JsMn_zs7rL8Vkn4wsh-bd6jcZkS_L6X0Pyz16DkFtPcId1b_rIKCiqHMg","refresh_token":"9d38841f-b577-4e88-b4df-8708bf7a2b97","id_token_claims":{"at_hash":["fHiH8M-9vE-GDykC9L69TQ"],"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"amr":["[]"],"iss":["https://ce-dev2.gluu.org"],"given_name":["inderpal1"],"nonce":["t521101a06h5apoemospe65l1t"],"oxValidationURI":["https://ce-dev2.gluu.org/oxauth/opiframe"],"oxOpenIDConnectVersion":["openidconnect-1.0"],"aud":["@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!89DA.336F.BF58.3F51"],"acr":["basic"],"updated_at":["20170310081929.180Z"],"auth_time":["1491910674"],"name":["inderpal"],"exp":["1491917530"],"iat":["1491913930"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 12:32:11 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:32:11 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:32:11 PM
+Client: oxd_socket_request144
+
+Tuesday 11th of April 2017 12:32:12 PM
+Client: oxd_socket_response0231{"status":"ok","data":{"claims":{"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"updated_at":["20170310081929.180Z"],"name":["inderpal"],"given_name":["inderpal1"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 12:32:12 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:32:31 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:32:31 PM
+Client: oxd_socket_request178
+
+Tuesday 11th of April 2017 12:32:31 PM
+Client: oxd_socket_response0098{"status":"error","data":{"error":"bad_request","error_description":"'state' is not registered."}}
+
+Tuesday 11th of April 2017 12:32:31 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:51:59 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:51:59 PM
+Client: oxd_socket_request634
+
+Tuesday 11th of April 2017 12:52:02 PM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"87ec9739-a178-4c90-9ac4-daca499d19e5","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 12:52:02 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:52:02 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:52:02 PM
+Client: oxd_socket_request815
+
+Tuesday 11th of April 2017 12:52:04 PM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"c57a2486-96a8-4382-9ef7-b1a15b9f9489","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 12:52:04 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:52:31 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:52:31 PM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 12:52:31 PM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!3763.82F4.12EE.BFCA&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=cjt9ls3kvsvtq6c4fjqgokbld2&nonce=4glp0gmi310bbtsvhhnmq0bmal&acr_values=basic"}}
+
+Tuesday 11th of April 2017 12:52:31 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:52:37 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:52:37 PM
+Client: oxd_socket_request178
+
+Tuesday 11th of April 2017 12:52:40 PM
+Client: oxd_socket_response1942{"status":"ok","data":{"access_token":"ca1de358-8158-44dc-ae81-6641b5d5f25c","expires_in":299,"id_token":"eyJraWQiOiJjNWJjYTk4ZS0wNGRhLTQ5NjEtYjQwMC0yMmQ0Yjk5NTM0MjQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwczovL2NlLWRldjIuZ2x1dS5vcmciLCJhdWQiOiJAITgyQTIuODlBOC5GRTBFLjkwREUhMDAwMSFENUYwLjREQjQhMDAwOCEzNzYzLjgyRjQuMTJFRS5CRkNBIiwiZXhwIjoxNDkxOTE4NzU4LCJpYXQiOjE0OTE5MTUxNTgsImFjciI6ImJhc2ljIiwiYW1yIjoiW10iLCJub25jZSI6IjRnbHAwZ21pMzEwYmJ0c3ZoaG5tcTBibWFsIiwiYXV0aF90aW1lIjoxNDkxOTEwNjc0LCJhdF9oYXNoIjoiSW9nc2plUDRFbmpfRjRwVHJ3MjZTUSIsIm94VmFsaWRhdGlvblVSSSI6Imh0dHBzOi8vY2UtZGV2Mi5nbHV1Lm9yZy9veGF1dGgvb3BpZnJhbWUiLCJveE9wZW5JRENvbm5lY3RWZXJzaW9uIjoib3BlbmlkY29ubmVjdC0xLjAiLCJuYW1lIjoiaW5kZXJwYWwiLCJmYW1pbHlfbmFtZSI6ImluZGVycGFsMiIsImdpdmVuX25hbWUiOiJpbmRlcnBhbDEiLCJ1cGRhdGVkX2F0IjoiMjAxNzAzMTAwODE5MjkuMTgwWiIsImVtYWlsIjoiaW5kZXJwYWxAdGVzdC5jb20iLCJzdWIiOiJuRXY0eWxmNjgxN1dkbHhiRURNcWxnWVlhb0twUURBcE14eVFuekNNTkFjIn0.Z-tFPMCEX1XQEr85HLa1WSQwdyidJRj6zo31Ra32GK9Vi7d1kL0PS5Dvr62_GI_nZeOBWlJ953INutpzdAGoTwedmDsAiEMUcGaar6hCUWp0bn3IlGXrzLGeni3-_aDu_BHfZBt6AajNJu4beUBMcZgrqRmAA3ZGGX4I9mGKmWbeTt2IaBDaQ5lHvvS8E46UlgMAITDOXKuSmwPZRZjjjRfPytc3fUGCP2LRih_jhHa0w5dqDymuO841fU9BmNHAwbiVYR3XptiJRixhbLPRF8sEyYjCBquIpTHMn-El5GM30_CDhvf3xVvr58p33GJsJ6hrqk0aMw9HdEB5WEXlIg","refresh_token":"59d250b9-7fde-4703-b6a3-dc3a272faa0e","id_token_claims":{"at_hash":["IogsjeP4Enj_F4pTrw26SQ"],"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"amr":["[]"],"iss":["https://ce-dev2.gluu.org"],"given_name":["inderpal1"],"nonce":["4glp0gmi310bbtsvhhnmq0bmal"],"oxValidationURI":["https://ce-dev2.gluu.org/oxauth/opiframe"],"oxOpenIDConnectVersion":["openidconnect-1.0"],"aud":["@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!3763.82F4.12EE.BFCA"],"acr":["basic"],"updated_at":["20170310081929.180Z"],"auth_time":["1491910674"],"name":["inderpal"],"exp":["1491918758"],"iat":["1491915158"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 12:52:40 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:54:58 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:54:58 PM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 12:54:58 PM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!3763.82F4.12EE.BFCA&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=giiuv0m601af6qkmm7ss0v4mom&nonce=b10inbc2ugcaua070ulssgeos0&acr_values=basic"}}
+
+Tuesday 11th of April 2017 12:54:58 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:55:00 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:55:00 PM
+Client: oxd_socket_request178
+
+Tuesday 11th of April 2017 12:55:02 PM
+Client: oxd_socket_response1942{"status":"ok","data":{"access_token":"74677b4d-c4de-4e3e-b3d8-cedda1390777","expires_in":299,"id_token":"eyJraWQiOiJjNWJjYTk4ZS0wNGRhLTQ5NjEtYjQwMC0yMmQ0Yjk5NTM0MjQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwczovL2NlLWRldjIuZ2x1dS5vcmciLCJhdWQiOiJAITgyQTIuODlBOC5GRTBFLjkwREUhMDAwMSFENUYwLjREQjQhMDAwOCEzNzYzLjgyRjQuMTJFRS5CRkNBIiwiZXhwIjoxNDkxOTE4OTAxLCJpYXQiOjE0OTE5MTUzMDEsImFjciI6ImJhc2ljIiwiYW1yIjoiW10iLCJub25jZSI6ImIxMGluYmMydWdjYXVhMDcwdWxzc2dlb3MwIiwiYXV0aF90aW1lIjoxNDkxOTEwNjc0LCJhdF9oYXNoIjoiYlhxWlNtSFBYb0d2TFJ3RHdMXzZYQSIsIm94VmFsaWRhdGlvblVSSSI6Imh0dHBzOi8vY2UtZGV2Mi5nbHV1Lm9yZy9veGF1dGgvb3BpZnJhbWUiLCJveE9wZW5JRENvbm5lY3RWZXJzaW9uIjoib3BlbmlkY29ubmVjdC0xLjAiLCJuYW1lIjoiaW5kZXJwYWwiLCJmYW1pbHlfbmFtZSI6ImluZGVycGFsMiIsImdpdmVuX25hbWUiOiJpbmRlcnBhbDEiLCJ1cGRhdGVkX2F0IjoiMjAxNzAzMTAwODE5MjkuMTgwWiIsImVtYWlsIjoiaW5kZXJwYWxAdGVzdC5jb20iLCJzdWIiOiJuRXY0eWxmNjgxN1dkbHhiRURNcWxnWVlhb0twUURBcE14eVFuekNNTkFjIn0.LwUJAUTooBtlczo6M-jTF2z_VjesdC0opUmyoocwVnHeYS5UyOt11eEObIaNNNi4zQbKa7gIBrUjLbdib9rGr00wZDrpkaFAS09fMkVxvZqEFgeSHB9qVkY_-LaJR7CKa0li0mVer8PCzhWRHvDzYH59C9dmXs3voktLRZLzUjAtplkgNSUMUj_Gbv5G32JosmJOYF7hXo3Uo88BO93EZYzX32lBIO2cYkvmUUsHtCLL3n_BDqZcpbTJKh3otSKEF7f3yzRa25FmvckBklzJ8rNUXhZhDMUcWhFcOJGmqoOFz1CsBLX7haZjZprgPRHS5WA_xgnjP7aUy8ZFJjYAJw","refresh_token":"d39f7b1c-2173-4555-a2d5-08220296a81d","id_token_claims":{"at_hash":["bXqZSmHPXoGvLRwDwL_6XA"],"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"amr":["[]"],"iss":["https://ce-dev2.gluu.org"],"given_name":["inderpal1"],"nonce":["b10inbc2ugcaua070ulssgeos0"],"oxValidationURI":["https://ce-dev2.gluu.org/oxauth/opiframe"],"oxOpenIDConnectVersion":["openidconnect-1.0"],"aud":["@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!3763.82F4.12EE.BFCA"],"acr":["basic"],"updated_at":["20170310081929.180Z"],"auth_time":["1491910674"],"name":["inderpal"],"exp":["1491918901"],"iat":["1491915301"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 12:55:02 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:55:15 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:55:15 PM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 12:55:15 PM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!3763.82F4.12EE.BFCA&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=sisia58tpk297b2gve1lfbt573&nonce=hlmich30aoc11jdrefprp8kr15&acr_values=basic"}}
+
+Tuesday 11th of April 2017 12:55:15 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:55:17 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:55:17 PM
+Client: oxd_socket_request178
+
+Tuesday 11th of April 2017 12:55:19 PM
+Client: oxd_socket_response1942{"status":"ok","data":{"access_token":"3835a026-121d-4107-a425-0bff3881fc49","expires_in":299,"id_token":"eyJraWQiOiJjNWJjYTk4ZS0wNGRhLTQ5NjEtYjQwMC0yMmQ0Yjk5NTM0MjQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwczovL2NlLWRldjIuZ2x1dS5vcmciLCJhdWQiOiJAITgyQTIuODlBOC5GRTBFLjkwREUhMDAwMSFENUYwLjREQjQhMDAwOCEzNzYzLjgyRjQuMTJFRS5CRkNBIiwiZXhwIjoxNDkxOTE4OTE4LCJpYXQiOjE0OTE5MTUzMTgsImFjciI6ImJhc2ljIiwiYW1yIjoiW10iLCJub25jZSI6ImhsbWljaDMwYW9jMTFqZHJlZnBycDhrcjE1IiwiYXV0aF90aW1lIjoxNDkxOTEwNjc0LCJhdF9oYXNoIjoiRWVGcWlXN05DMEhDejdBd1dFUllnUSIsIm94VmFsaWRhdGlvblVSSSI6Imh0dHBzOi8vY2UtZGV2Mi5nbHV1Lm9yZy9veGF1dGgvb3BpZnJhbWUiLCJveE9wZW5JRENvbm5lY3RWZXJzaW9uIjoib3BlbmlkY29ubmVjdC0xLjAiLCJuYW1lIjoiaW5kZXJwYWwiLCJmYW1pbHlfbmFtZSI6ImluZGVycGFsMiIsImdpdmVuX25hbWUiOiJpbmRlcnBhbDEiLCJ1cGRhdGVkX2F0IjoiMjAxNzAzMTAwODE5MjkuMTgwWiIsImVtYWlsIjoiaW5kZXJwYWxAdGVzdC5jb20iLCJzdWIiOiJuRXY0eWxmNjgxN1dkbHhiRURNcWxnWVlhb0twUURBcE14eVFuekNNTkFjIn0.JlhS3zHdNFWyoa2p4qWEnbVw4M1PxML0Hl48JbuwtrZ2K0msZWwSqZi5TU4PNvaq1DRYOxEFn3gayMXmvvhsS8dAzudjeQkX2AP4Joth0ILledOBQcTAzrOPSXNDYDPYQx17zN80BbhF19R4F75tc2g8HBR1NXRdNAZTyfZrEOGdoSS_CUizE6LZmW76CShGTB-VPvsJphdFn8_PmM2EtJuu2Kfq38Hs11jDl_lWG565PQMqnjIp4XRnyJJdVY9_iLqhkXuQbTOLVNVqfLNRdK-bnNMpKPwuYZHBZ8DTi7WTSJhm8pkq2cIRkAgTfDcAL_KIWBc7agceoQH6nnLZOg","refresh_token":"c93721e7-d450-4853-970c-aed0d9688823","id_token_claims":{"at_hash":["EeFqiW7NC0HCz7AwWERYgQ"],"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"amr":["[]"],"iss":["https://ce-dev2.gluu.org"],"given_name":["inderpal1"],"nonce":["hlmich30aoc11jdrefprp8kr15"],"oxValidationURI":["https://ce-dev2.gluu.org/oxauth/opiframe"],"oxOpenIDConnectVersion":["openidconnect-1.0"],"aud":["@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!3763.82F4.12EE.BFCA"],"acr":["basic"],"updated_at":["20170310081929.180Z"],"auth_time":["1491910674"],"name":["inderpal"],"exp":["1491918918"],"iat":["1491915318"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 12:55:19 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:55:37 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:55:37 PM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 12:55:37 PM
+Client: oxd_socket_response0378{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!3763.82F4.12EE.BFCA&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=ltojrlo70gja5ddi644emnog8&nonce=un3n0qbgoiqarf2bg5mvh5r7ao&acr_values=basic"}}
+
+Tuesday 11th of April 2017 12:55:37 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:55:38 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:55:38 PM
+Client: oxd_socket_request177
+
+Tuesday 11th of April 2017 12:55:41 PM
+Client: oxd_socket_response1942{"status":"ok","data":{"access_token":"1ce00b78-3ba3-479d-97f2-c0d02e732c36","expires_in":299,"id_token":"eyJraWQiOiJjNWJjYTk4ZS0wNGRhLTQ5NjEtYjQwMC0yMmQ0Yjk5NTM0MjQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwczovL2NlLWRldjIuZ2x1dS5vcmciLCJhdWQiOiJAITgyQTIuODlBOC5GRTBFLjkwREUhMDAwMSFENUYwLjREQjQhMDAwOCEzNzYzLjgyRjQuMTJFRS5CRkNBIiwiZXhwIjoxNDkxOTE4OTM5LCJpYXQiOjE0OTE5MTUzMzksImFjciI6ImJhc2ljIiwiYW1yIjoiW10iLCJub25jZSI6InVuM24wcWJnb2lxYXJmMmJnNW12aDVyN2FvIiwiYXV0aF90aW1lIjoxNDkxOTEwNjc0LCJhdF9oYXNoIjoiX1NMTmp2SzdTYmllVE54OWo2VU1kUSIsIm94VmFsaWRhdGlvblVSSSI6Imh0dHBzOi8vY2UtZGV2Mi5nbHV1Lm9yZy9veGF1dGgvb3BpZnJhbWUiLCJveE9wZW5JRENvbm5lY3RWZXJzaW9uIjoib3BlbmlkY29ubmVjdC0xLjAiLCJuYW1lIjoiaW5kZXJwYWwiLCJmYW1pbHlfbmFtZSI6ImluZGVycGFsMiIsImdpdmVuX25hbWUiOiJpbmRlcnBhbDEiLCJ1cGRhdGVkX2F0IjoiMjAxNzAzMTAwODE5MjkuMTgwWiIsImVtYWlsIjoiaW5kZXJwYWxAdGVzdC5jb20iLCJzdWIiOiJuRXY0eWxmNjgxN1dkbHhiRURNcWxnWVlhb0twUURBcE14eVFuekNNTkFjIn0.dGsyJTa7MQChkhk9Qt7vxs51s-trhCsGf86wiZfH4b-KzmWeAoKr91tX7O128-q-E9f7vYAkrnKSYEyZbhM9dpxC2XIQtm_b8PwK76YdOcPEniWrYJIUj6sWDw5UwrzGsxZLRn_oP0RZ9b0JsCXLBJypt6KV3LPuRqYYvHjXwgBvjDmZKeHt4qQ1PMc5Ni_sBOhLw9vIlbpK9Dj1chfjj9kH6YOVXeIIRyzM8uIllqO03wph55YVMyVoUeXt6uoVOhCsQzcBE2r3vZZSXlRLYVN3A5qbRXm1-LA-2s-EdN-q45XMwoUUJdy8gyi06I0ZS_Y_lm8oG705k31e2y-i_g","refresh_token":"2f5679f8-9b7f-4242-a93c-6ad8c243a837","id_token_claims":{"at_hash":["_SLNjvK7SbieTNx9j6UMdQ"],"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"amr":["[]"],"iss":["https://ce-dev2.gluu.org"],"given_name":["inderpal1"],"nonce":["un3n0qbgoiqarf2bg5mvh5r7ao"],"oxValidationURI":["https://ce-dev2.gluu.org/oxauth/opiframe"],"oxOpenIDConnectVersion":["openidconnect-1.0"],"aud":["@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!3763.82F4.12EE.BFCA"],"acr":["basic"],"updated_at":["20170310081929.180Z"],"auth_time":["1491910674"],"name":["inderpal"],"exp":["1491918939"],"iat":["1491915339"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 12:55:41 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:56:34 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:56:34 PM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 12:56:34 PM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!3763.82F4.12EE.BFCA&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=p04hqqgr5la2gh9704ltern4sc&nonce=i983th5sl59m7nmdgtbavfl9b3&acr_values=basic"}}
+
+Tuesday 11th of April 2017 12:56:34 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:56:36 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:56:36 PM
+Client: oxd_socket_request178
+
+Tuesday 11th of April 2017 12:56:38 PM
+Client: oxd_socket_response1942{"status":"ok","data":{"access_token":"fd315708-3330-4488-85d3-f098e28d6495","expires_in":299,"id_token":"eyJraWQiOiJjNWJjYTk4ZS0wNGRhLTQ5NjEtYjQwMC0yMmQ0Yjk5NTM0MjQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwczovL2NlLWRldjIuZ2x1dS5vcmciLCJhdWQiOiJAITgyQTIuODlBOC5GRTBFLjkwREUhMDAwMSFENUYwLjREQjQhMDAwOCEzNzYzLjgyRjQuMTJFRS5CRkNBIiwiZXhwIjoxNDkxOTE4OTk3LCJpYXQiOjE0OTE5MTUzOTcsImFjciI6ImJhc2ljIiwiYW1yIjoiW10iLCJub25jZSI6Imk5ODN0aDVzbDU5bTdubWRndGJhdmZsOWIzIiwiYXV0aF90aW1lIjoxNDkxOTEwNjc0LCJhdF9oYXNoIjoiejVhVDRDbGVXUmRrS1B5bVRSSU1TUSIsIm94VmFsaWRhdGlvblVSSSI6Imh0dHBzOi8vY2UtZGV2Mi5nbHV1Lm9yZy9veGF1dGgvb3BpZnJhbWUiLCJveE9wZW5JRENvbm5lY3RWZXJzaW9uIjoib3BlbmlkY29ubmVjdC0xLjAiLCJuYW1lIjoiaW5kZXJwYWwiLCJmYW1pbHlfbmFtZSI6ImluZGVycGFsMiIsImdpdmVuX25hbWUiOiJpbmRlcnBhbDEiLCJ1cGRhdGVkX2F0IjoiMjAxNzAzMTAwODE5MjkuMTgwWiIsImVtYWlsIjoiaW5kZXJwYWxAdGVzdC5jb20iLCJzdWIiOiJuRXY0eWxmNjgxN1dkbHhiRURNcWxnWVlhb0twUURBcE14eVFuekNNTkFjIn0.AQpL2okJwaGgPN9HcTaU4HDWDQneVykd-OOsYqxHMyO6tIU4x2XadEJYsLvpkR6m0bURgwBTKs3aHnqZZKViI3XaOqmIMRV3qSD5sElfVBz5vqz4M5Pqjm6O8TYID8P4H7vTRwlUe2n_VcmI5P3xYC_DiuzdIsVg8i-Rp7aR3oh4aZiQBNy3hztgLRSNbMDudgfJ8y31cwqBPMn1eN3wASFqdgUWg9Ml5hFZMHZU6WuvbAbi3SI_aagc2R1ZUXS2jUNE4bBLJ4_HCnbokHYFg842ZqN8iHSOL5yNir3RTa9_QtpvqLm2qV_SSrC2F755BTMzo3v-TM-HjPrOGhXsFA","refresh_token":"8d7a72b3-2e58-4d77-85d9-570aa57be87d","id_token_claims":{"at_hash":["z5aT4CleWRdkKPymTRIMSQ"],"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"amr":["[]"],"iss":["https://ce-dev2.gluu.org"],"given_name":["inderpal1"],"nonce":["i983th5sl59m7nmdgtbavfl9b3"],"oxValidationURI":["https://ce-dev2.gluu.org/oxauth/opiframe"],"oxOpenIDConnectVersion":["openidconnect-1.0"],"aud":["@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!3763.82F4.12EE.BFCA"],"acr":["basic"],"updated_at":["20170310081929.180Z"],"auth_time":["1491910674"],"name":["inderpal"],"exp":["1491918997"],"iat":["1491915397"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 12:56:38 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:59:04 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:59:04 PM
+Client: oxd_socket_request634
+
+Tuesday 11th of April 2017 12:59:06 PM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"2a14a39a-8d1b-4adf-95a3-86342c74f4a1","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 12:59:06 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:59:06 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:59:06 PM
+Client: oxd_socket_request815
+
+Tuesday 11th of April 2017 12:59:07 PM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"27907e9b-2762-4184-b6ba-68e7ea6d89b9","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 12:59:07 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:59:20 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:59:20 PM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 12:59:20 PM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!ADB5.ED62.D2C1.AD20&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=6lkludve2o3mv8u1pubd3mgsgd&nonce=grd1iblhik0umh8ovmqom8fo4b&acr_values=basic"}}
+
+Tuesday 11th of April 2017 12:59:20 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 12:59:25 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 12:59:25 PM
+Client: oxd_socket_request178
+
+Tuesday 11th of April 2017 12:59:28 PM
+Client: oxd_socket_response1942{"status":"ok","data":{"access_token":"12228ef1-ed5e-4002-a1cc-2a01ac407e28","expires_in":299,"id_token":"eyJraWQiOiJjNWJjYTk4ZS0wNGRhLTQ5NjEtYjQwMC0yMmQ0Yjk5NTM0MjQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwczovL2NlLWRldjIuZ2x1dS5vcmciLCJhdWQiOiJAITgyQTIuODlBOC5GRTBFLjkwREUhMDAwMSFENUYwLjREQjQhMDAwOCFBREI1LkVENjIuRDJDMS5BRDIwIiwiZXhwIjoxNDkxOTE5MTY2LCJpYXQiOjE0OTE5MTU1NjYsImFjciI6ImJhc2ljIiwiYW1yIjoiW10iLCJub25jZSI6ImdyZDFpYmxoaWswdW1oOG92bXFvbThmbzRiIiwiYXV0aF90aW1lIjoxNDkxOTEwNjc0LCJhdF9oYXNoIjoiWmVZS2FJTVpOTDh2OFJXWURIT3FpZyIsIm94VmFsaWRhdGlvblVSSSI6Imh0dHBzOi8vY2UtZGV2Mi5nbHV1Lm9yZy9veGF1dGgvb3BpZnJhbWUiLCJveE9wZW5JRENvbm5lY3RWZXJzaW9uIjoib3BlbmlkY29ubmVjdC0xLjAiLCJuYW1lIjoiaW5kZXJwYWwiLCJmYW1pbHlfbmFtZSI6ImluZGVycGFsMiIsImdpdmVuX25hbWUiOiJpbmRlcnBhbDEiLCJ1cGRhdGVkX2F0IjoiMjAxNzAzMTAwODE5MjkuMTgwWiIsImVtYWlsIjoiaW5kZXJwYWxAdGVzdC5jb20iLCJzdWIiOiJuRXY0eWxmNjgxN1dkbHhiRURNcWxnWVlhb0twUURBcE14eVFuekNNTkFjIn0.a9KpqBYU7wO-omVAKBowmJUu0D8gKelj_-99_fcGR_i4Ke_xEmZFLrZz-CoV0fZTOi-l3cd5IyWVhLXkLolxYAO2r7LfDmZ-S1ZrpbTVJ0l53hMUZT7lUqbz6pKXotZUMzzGWUK1WAC82pbLKR0N3rQ0EdHphoPjxTDbLLR3eR1OliE_eM0SQq4ykR1cNkh4EZ8pa7HvScAxx86ImVAVifW0oRa8VxRMj51qHHoBKKsHGi0L_STcZsx_2KLHz3XUnzNpBmQDV8STqEkjnsaXFTJXYQqEstuGfZOhj9km17IPxbaNnCR4lLCRHfaYEDzO9Ki7Ndug3t2I0XCeaYnSyQ","refresh_token":"3633ecfe-1b6d-4ddd-8ca4-ec7a33b5c670","id_token_claims":{"at_hash":["ZeYKaIMZNL8v8RWYDHOqig"],"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"amr":["[]"],"iss":["https://ce-dev2.gluu.org"],"given_name":["inderpal1"],"nonce":["grd1iblhik0umh8ovmqom8fo4b"],"oxValidationURI":["https://ce-dev2.gluu.org/oxauth/opiframe"],"oxOpenIDConnectVersion":["openidconnect-1.0"],"aud":["@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!ADB5.ED62.D2C1.AD20"],"acr":["basic"],"updated_at":["20170310081929.180Z"],"auth_time":["1491910674"],"name":["inderpal"],"exp":["1491919166"],"iat":["1491915566"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 12:59:28 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:06:59 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:06:59 PM
+Client: oxd_socket_request178
+
+Tuesday 11th of April 2017 01:06:59 PM
+Client: oxd_socket_response0098{"status":"error","data":{"error":"bad_request","error_description":"'state' is not registered."}}
+
+Tuesday 11th of April 2017 01:06:59 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:07:25 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:07:25 PM
+Client: oxd_socket_request634
+
+Tuesday 11th of April 2017 01:07:26 PM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"8ca8a76a-d8e9-4596-ad3f-ae26af8738ba","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 01:07:26 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:07:26 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:07:26 PM
+Client: oxd_socket_request815
+
+Tuesday 11th of April 2017 01:07:27 PM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"f4da3db4-d996-4531-bfce-d4eb4fc0029f","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 01:07:27 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:07:37 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:07:37 PM
+Client: oxd_socket_request634
+
+Tuesday 11th of April 2017 01:07:38 PM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"d1d42577-d59d-44ae-9c70-2f72f3f81938","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 01:07:38 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:07:38 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:07:38 PM
+Client: oxd_socket_request815
+
+Tuesday 11th of April 2017 01:07:39 PM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"5097719e-8c3a-4311-8479-130bda600bf5","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 01:07:39 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:08:56 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:08:56 PM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 01:08:56 PM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!C154.6A1C.4C0B.2D2A&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=6m1mv0h5rpmt13d7b473sgt3bn&nonce=3l99o6rp8teg3diu58q6chkp5m&acr_values=basic"}}
+
+Tuesday 11th of April 2017 01:08:56 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:09:00 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:09:00 PM
+Client: oxd_socket_request178
+
+Tuesday 11th of April 2017 01:09:03 PM
+Client: oxd_socket_response1942{"status":"ok","data":{"access_token":"d9c669ee-d1d6-4d75-991f-8e6eb1ee4ca7","expires_in":299,"id_token":"eyJraWQiOiJjNWJjYTk4ZS0wNGRhLTQ5NjEtYjQwMC0yMmQ0Yjk5NTM0MjQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwczovL2NlLWRldjIuZ2x1dS5vcmciLCJhdWQiOiJAITgyQTIuODlBOC5GRTBFLjkwREUhMDAwMSFENUYwLjREQjQhMDAwOCFDMTU0LjZBMUMuNEMwQi4yRDJBIiwiZXhwIjoxNDkxOTE5NzQxLCJpYXQiOjE0OTE5MTYxNDEsImFjciI6ImJhc2ljIiwiYW1yIjoiW10iLCJub25jZSI6IjNsOTlvNnJwOHRlZzNkaXU1OHE2Y2hrcDVtIiwiYXV0aF90aW1lIjoxNDkxOTEwNjc0LCJhdF9oYXNoIjoiSmk4YlpqXzg4Z1cyT3Btb1d3U29KQSIsIm94VmFsaWRhdGlvblVSSSI6Imh0dHBzOi8vY2UtZGV2Mi5nbHV1Lm9yZy9veGF1dGgvb3BpZnJhbWUiLCJveE9wZW5JRENvbm5lY3RWZXJzaW9uIjoib3BlbmlkY29ubmVjdC0xLjAiLCJuYW1lIjoiaW5kZXJwYWwiLCJmYW1pbHlfbmFtZSI6ImluZGVycGFsMiIsImdpdmVuX25hbWUiOiJpbmRlcnBhbDEiLCJ1cGRhdGVkX2F0IjoiMjAxNzAzMTAwODE5MjkuMTgwWiIsImVtYWlsIjoiaW5kZXJwYWxAdGVzdC5jb20iLCJzdWIiOiJuRXY0eWxmNjgxN1dkbHhiRURNcWxnWVlhb0twUURBcE14eVFuekNNTkFjIn0.gL2rPDlDN99lCLztXIFuS2N60tUOi0jCR0bqjAG0FNtEfFoaVxXy-KyzUZ_u4xCFxNBqCzIE87zWun78eLKrf5H2Q2htbu0W6BE7qGQf6wq2NNpSOqutKfC5owUgRSDnlf_lBYknBlSUZBRqN5szZSpNUshV4tBWoz2WUyhCroUHeUjmHBvkDoPrr0WH2PtnnmoG7QR86jzakbnI66NZxkuDCugJQbYDP8F2Jk7W8EeTBcichEUmQ1n3UIqlBjP6Jga7LQrelmOL8gIQFMNQ2MI_n-yavj7y9t7uVeNt0MEcBND6Z_D0VBUEE8e5q4KivVe0J1HEdpoM1lZytIAYhg","refresh_token":"c357f15b-a19f-4d86-9d86-56ab6353c5a4","id_token_claims":{"at_hash":["Ji8bZj_88gW2OpmoWwSoJA"],"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"amr":["[]"],"iss":["https://ce-dev2.gluu.org"],"given_name":["inderpal1"],"nonce":["3l99o6rp8teg3diu58q6chkp5m"],"oxValidationURI":["https://ce-dev2.gluu.org/oxauth/opiframe"],"oxOpenIDConnectVersion":["openidconnect-1.0"],"aud":["@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!C154.6A1C.4C0B.2D2A"],"acr":["basic"],"updated_at":["20170310081929.180Z"],"auth_time":["1491910674"],"name":["inderpal"],"exp":["1491919741"],"iat":["1491916141"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 01:09:03 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:14:30 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:14:30 PM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 01:14:30 PM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!C154.6A1C.4C0B.2D2A&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=s84scl8fb8a0d74ltplr7d25er&nonce=qe1t0f8ue95fgi9ucfihn00gp9&acr_values=basic"}}
+
+Tuesday 11th of April 2017 01:14:30 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:14:31 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:14:31 PM
+Client: oxd_socket_request178
+
+Tuesday 11th of April 2017 01:14:34 PM
+Client: oxd_socket_response1942{"status":"ok","data":{"access_token":"ed102b21-dfb7-437a-b6e6-74c8898f8d37","expires_in":299,"id_token":"eyJraWQiOiJjNWJjYTk4ZS0wNGRhLTQ5NjEtYjQwMC0yMmQ0Yjk5NTM0MjQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwczovL2NlLWRldjIuZ2x1dS5vcmciLCJhdWQiOiJAITgyQTIuODlBOC5GRTBFLjkwREUhMDAwMSFENUYwLjREQjQhMDAwOCFDMTU0LjZBMUMuNEMwQi4yRDJBIiwiZXhwIjoxNDkxOTIwMDcyLCJpYXQiOjE0OTE5MTY0NzIsImFjciI6ImJhc2ljIiwiYW1yIjoiW10iLCJub25jZSI6InFlMXQwZjh1ZTk1ZmdpOXVjZmlobjAwZ3A5IiwiYXV0aF90aW1lIjoxNDkxOTEwNjc0LCJhdF9oYXNoIjoiYWQzYnEwNnBMUjNaRVFtZmlZWWhoQSIsIm94VmFsaWRhdGlvblVSSSI6Imh0dHBzOi8vY2UtZGV2Mi5nbHV1Lm9yZy9veGF1dGgvb3BpZnJhbWUiLCJveE9wZW5JRENvbm5lY3RWZXJzaW9uIjoib3BlbmlkY29ubmVjdC0xLjAiLCJuYW1lIjoiaW5kZXJwYWwiLCJmYW1pbHlfbmFtZSI6ImluZGVycGFsMiIsImdpdmVuX25hbWUiOiJpbmRlcnBhbDEiLCJ1cGRhdGVkX2F0IjoiMjAxNzAzMTAwODE5MjkuMTgwWiIsImVtYWlsIjoiaW5kZXJwYWxAdGVzdC5jb20iLCJzdWIiOiJuRXY0eWxmNjgxN1dkbHhiRURNcWxnWVlhb0twUURBcE14eVFuekNNTkFjIn0.WPG4LmLN8PMn7d7ov5aaer8Joj3RJuqR0fc3JeNRbvQVaVjzLQ68nQWBCDv6WR1-Dq2rIbPn8JQOJKPlGw_gTtzfmSvFaC1irXyyGOzTrWi6qupceTumbTMBujm93rpHFFWaB0OZakSeBCtCooLB_ZwtybCoI167FZTHTBaZWqU7iA7YILdegZUagh6FMVux6Q1lRBZt6gP6w9XrNT5Truxm5Kc459Ldv8SRd_eQe9EtUYBmcwwyh6_SlepHaN71QJGSgj3Zy_L90sK9l5iF29eLILXEevFa4T0xpwjZyJUkvwA9n00ZKhl92PNIOY7Zf9n-NT2DHMFYPLmxXOwfWg","refresh_token":"93ad4d25-1462-4be8-9e99-4125385e21d5","id_token_claims":{"at_hash":["ad3bq06pLR3ZEQmfiYYhhA"],"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"amr":["[]"],"iss":["https://ce-dev2.gluu.org"],"given_name":["inderpal1"],"nonce":["qe1t0f8ue95fgi9ucfihn00gp9"],"oxValidationURI":["https://ce-dev2.gluu.org/oxauth/opiframe"],"oxOpenIDConnectVersion":["openidconnect-1.0"],"aud":["@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!C154.6A1C.4C0B.2D2A"],"acr":["basic"],"updated_at":["20170310081929.180Z"],"auth_time":["1491910674"],"name":["inderpal"],"exp":["1491920072"],"iat":["1491916472"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 01:14:34 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:15:45 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:15:45 PM
+Client: oxd_socket_request634
+
+Tuesday 11th of April 2017 01:15:46 PM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"40d0558a-75fe-421e-a534-9b5afa904374","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 01:15:46 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:15:46 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:15:46 PM
+Client: oxd_socket_request815
+
+Tuesday 11th of April 2017 01:15:47 PM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"a2f477d6-75b9-4043-967c-019508fc2cc4","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 01:15:47 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:16:02 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:16:02 PM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 01:16:02 PM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!5830.6BBC.A5A0.DAB1&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=knpnhvqu3tepb74uee6bf5qipg&nonce=fj936khvdgjon5fijmam29es9j&acr_values=basic"}}
+
+Tuesday 11th of April 2017 01:16:02 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:16:07 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:16:07 PM
+Client: oxd_socket_request178
+
+Tuesday 11th of April 2017 01:16:09 PM
+Client: oxd_socket_response1942{"status":"ok","data":{"access_token":"7eaf3803-7018-47e0-b7a3-9a2114f1b75e","expires_in":299,"id_token":"eyJraWQiOiJjNWJjYTk4ZS0wNGRhLTQ5NjEtYjQwMC0yMmQ0Yjk5NTM0MjQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwczovL2NlLWRldjIuZ2x1dS5vcmciLCJhdWQiOiJAITgyQTIuODlBOC5GRTBFLjkwREUhMDAwMSFENUYwLjREQjQhMDAwOCE1ODMwLjZCQkMuQTVBMC5EQUIxIiwiZXhwIjoxNDkxOTIwMTY4LCJpYXQiOjE0OTE5MTY1NjgsImFjciI6ImJhc2ljIiwiYW1yIjoiW10iLCJub25jZSI6ImZqOTM2a2h2ZGdqb241ZmlqbWFtMjllczlqIiwiYXV0aF90aW1lIjoxNDkxOTEwNjc0LCJhdF9oYXNoIjoiVWdfYXB2UXRkLWhESjJqTVRCN2IwdyIsIm94VmFsaWRhdGlvblVSSSI6Imh0dHBzOi8vY2UtZGV2Mi5nbHV1Lm9yZy9veGF1dGgvb3BpZnJhbWUiLCJveE9wZW5JRENvbm5lY3RWZXJzaW9uIjoib3BlbmlkY29ubmVjdC0xLjAiLCJuYW1lIjoiaW5kZXJwYWwiLCJmYW1pbHlfbmFtZSI6ImluZGVycGFsMiIsImdpdmVuX25hbWUiOiJpbmRlcnBhbDEiLCJ1cGRhdGVkX2F0IjoiMjAxNzAzMTAwODE5MjkuMTgwWiIsImVtYWlsIjoiaW5kZXJwYWxAdGVzdC5jb20iLCJzdWIiOiJuRXY0eWxmNjgxN1dkbHhiRURNcWxnWVlhb0twUURBcE14eVFuekNNTkFjIn0.V6otlJ_EGR4DqpaBy_tP3mr36Ok41pZvcGhpW6EWfmN-t4S3SfOGrfpggUYDntymTIPQb4eBLitAZxZ0qDKmqgNB1_L7SDZdBLRg3b481gc2lDyfEaDB3LidRdti-Zz60xommyFcyZ9XXPYFKCD2MgveSXpPWUVvKnwmOVdX2NYWdWUDwDXkDUIrWCAvYahv_zIU6yktRbtwAHf9p8TBzNRC2FCB1S2yayZNL0khW5Ba15qvPJOcsL2uXyGqe0hwr-I5FM9i89hSKkbld0h6VfWipSYQuT1PCCXMyO2_8nrrTkGKsKH3X-B1Q773yS9PLaQwat9jshUQBqLTaWAnbQ","refresh_token":"c3a3b87c-13b4-4cb3-9a7f-b5b0aab6c852","id_token_claims":{"at_hash":["Ug_apvQtd-hDJ2jMTB7b0w"],"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"amr":["[]"],"iss":["https://ce-dev2.gluu.org"],"given_name":["inderpal1"],"nonce":["fj936khvdgjon5fijmam29es9j"],"oxValidationURI":["https://ce-dev2.gluu.org/oxauth/opiframe"],"oxOpenIDConnectVersion":["openidconnect-1.0"],"aud":["@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!5830.6BBC.A5A0.DAB1"],"acr":["basic"],"updated_at":["20170310081929.180Z"],"auth_time":["1491910674"],"name":["inderpal"],"exp":["1491920168"],"iat":["1491916568"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 01:16:09 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:17:35 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:17:35 PM
+Client: oxd_socket_request178
+
+Tuesday 11th of April 2017 01:17:35 PM
+Client: oxd_socket_response0098{"status":"error","data":{"error":"bad_request","error_description":"'state' is not registered."}}
+
+Tuesday 11th of April 2017 01:17:35 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:17:56 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:17:56 PM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 01:17:56 PM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!5830.6BBC.A5A0.DAB1&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=l9arlqubkrgkgrm3ulcbkc0nl0&nonce=jp0v4u9fmup264h7m1u023ribp&acr_values=basic"}}
+
+Tuesday 11th of April 2017 01:17:56 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:17:57 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:17:57 PM
+Client: oxd_socket_request178
+
+Tuesday 11th of April 2017 01:18:00 PM
+Client: oxd_socket_response1942{"status":"ok","data":{"access_token":"79ee5ade-da40-4b51-a42e-af3e28c35275","expires_in":299,"id_token":"eyJraWQiOiJjNWJjYTk4ZS0wNGRhLTQ5NjEtYjQwMC0yMmQ0Yjk5NTM0MjQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwczovL2NlLWRldjIuZ2x1dS5vcmciLCJhdWQiOiJAITgyQTIuODlBOC5GRTBFLjkwREUhMDAwMSFENUYwLjREQjQhMDAwOCE1ODMwLjZCQkMuQTVBMC5EQUIxIiwiZXhwIjoxNDkxOTIwMjc4LCJpYXQiOjE0OTE5MTY2NzgsImFjciI6ImJhc2ljIiwiYW1yIjoiW10iLCJub25jZSI6ImpwMHY0dTlmbXVwMjY0aDdtMXUwMjNyaWJwIiwiYXV0aF90aW1lIjoxNDkxOTEwNjc0LCJhdF9oYXNoIjoiY3h0Y0ZmZXJzZElVaU8xMy05VFd4USIsIm94VmFsaWRhdGlvblVSSSI6Imh0dHBzOi8vY2UtZGV2Mi5nbHV1Lm9yZy9veGF1dGgvb3BpZnJhbWUiLCJveE9wZW5JRENvbm5lY3RWZXJzaW9uIjoib3BlbmlkY29ubmVjdC0xLjAiLCJuYW1lIjoiaW5kZXJwYWwiLCJmYW1pbHlfbmFtZSI6ImluZGVycGFsMiIsImdpdmVuX25hbWUiOiJpbmRlcnBhbDEiLCJ1cGRhdGVkX2F0IjoiMjAxNzAzMTAwODE5MjkuMTgwWiIsImVtYWlsIjoiaW5kZXJwYWxAdGVzdC5jb20iLCJzdWIiOiJuRXY0eWxmNjgxN1dkbHhiRURNcWxnWVlhb0twUURBcE14eVFuekNNTkFjIn0.atCJW_wSQzct_qfFLvolO8zM6hcGIb4cL1XaDnCROT2zGKHEaS7LX4Ss36b2I3cEbKRuQRHMOFPV8jre6KiQSlr3lx0lG2u7o3ZNeUDEBnvKdsFpwC8TmRFK6kdC4PdFGcx7EZlqTSw98vLi69ksQ73zpEkxbvm5ESNSUETvaJuNDELdnXOKq2HOQYUwg5eGek7A7EAROif_rESSAfeTcsOyNYa2TiLD22cUak16l9z4bVoG2V13HNtCuKAWj8y-XWnK9bGTHwPX13iVU979GNfm53t34Pw0mqCS6H115MxAQ7BLiNu1fG4evnLs4jcrQ3j8KDO_cVabvMS9YfEi-Q","refresh_token":"02a924c8-1151-4372-9518-db66830b42e0","id_token_claims":{"at_hash":["cxtcFfersdIUiO13-9TWxQ"],"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"amr":["[]"],"iss":["https://ce-dev2.gluu.org"],"given_name":["inderpal1"],"nonce":["jp0v4u9fmup264h7m1u023ribp"],"oxValidationURI":["https://ce-dev2.gluu.org/oxauth/opiframe"],"oxOpenIDConnectVersion":["openidconnect-1.0"],"aud":["@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!5830.6BBC.A5A0.DAB1"],"acr":["basic"],"updated_at":["20170310081929.180Z"],"auth_time":["1491910674"],"name":["inderpal"],"exp":["1491920278"],"iat":["1491916678"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 01:18:00 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:18:00 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:18:00 PM
+Client: oxd_socket_request144
+
+Tuesday 11th of April 2017 01:18:01 PM
+Client: oxd_socket_response0231{"status":"ok","data":{"claims":{"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"updated_at":["20170310081929.180Z"],"name":["inderpal"],"given_name":["inderpal1"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 01:18:01 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:21:29 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:21:29 PM
+Client: oxd_socket_request634
+
+Tuesday 11th of April 2017 01:21:31 PM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"504e5a7f-4c10-4828-a736-b3595a5d7025","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 01:21:31 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:21:31 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:21:31 PM
+Client: oxd_socket_request815
+
+Tuesday 11th of April 2017 01:21:33 PM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"2c201f94-6a35-4502-be52-fcb8425780ae","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 01:21:33 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:21:45 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:21:45 PM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 01:21:45 PM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!3AC8.AA36.963B.CA3F&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=4slhhhu3epr1mp8l6dpt642vqg&nonce=s8ckitiubcjhpmsi8rnk7rbdtd&acr_values=basic"}}
+
+Tuesday 11th of April 2017 01:21:45 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:21:49 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:21:49 PM
+Client: oxd_socket_request178
+
+Tuesday 11th of April 2017 01:21:51 PM
+Client: oxd_socket_response1942{"status":"ok","data":{"access_token":"948adec1-ed46-4478-a37e-96429c062aeb","expires_in":299,"id_token":"eyJraWQiOiJjNWJjYTk4ZS0wNGRhLTQ5NjEtYjQwMC0yMmQ0Yjk5NTM0MjQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwczovL2NlLWRldjIuZ2x1dS5vcmciLCJhdWQiOiJAITgyQTIuODlBOC5GRTBFLjkwREUhMDAwMSFENUYwLjREQjQhMDAwOCEzQUM4LkFBMzYuOTYzQi5DQTNGIiwiZXhwIjoxNDkxOTIwNTEwLCJpYXQiOjE0OTE5MTY5MTAsImFjciI6ImJhc2ljIiwiYW1yIjoiW10iLCJub25jZSI6InM4Y2tpdGl1YmNqaHBtc2k4cm5rN3JiZHRkIiwiYXV0aF90aW1lIjoxNDkxOTEwNjc0LCJhdF9oYXNoIjoiTTFKR2pwVjdCeTBfSlYzMnE2UXVWZyIsIm94VmFsaWRhdGlvblVSSSI6Imh0dHBzOi8vY2UtZGV2Mi5nbHV1Lm9yZy9veGF1dGgvb3BpZnJhbWUiLCJveE9wZW5JRENvbm5lY3RWZXJzaW9uIjoib3BlbmlkY29ubmVjdC0xLjAiLCJuYW1lIjoiaW5kZXJwYWwiLCJmYW1pbHlfbmFtZSI6ImluZGVycGFsMiIsImdpdmVuX25hbWUiOiJpbmRlcnBhbDEiLCJ1cGRhdGVkX2F0IjoiMjAxNzAzMTAwODE5MjkuMTgwWiIsImVtYWlsIjoiaW5kZXJwYWxAdGVzdC5jb20iLCJzdWIiOiJuRXY0eWxmNjgxN1dkbHhiRURNcWxnWVlhb0twUURBcE14eVFuekNNTkFjIn0.Cbhqikn4V_aR6DKrRo-v42zzGhkVHc1f7b-f8Dg5MfvOTg1yLWEBALU6zKJNX8gzbRovGIkUbEm9IulFmXPDiZjpXV58MLBCZ1eZm7QaCUeDsDz1dPibj9B5a2lzhHpgIJRxrqfwnaL5MfQQ6h-MXMAcpB9qJ9IkwctVgk3SMNE3B2xsDXaeXWL6W-dNy7xozRb7rv1U1BJUTO_T3_hzVDhVWCqnvCPp71DiML3-5D4KWx3KVYn-59TsHNKz4TqDkdTTEUbeM8r1wNI3xKzKgrD2Upr8nCJiB1_8_uEPTp4yBWe8NZpGzGZkqoYG2GKhqdmx7vwL1bIXOSu5gjlxDA","refresh_token":"214e435b-0a1e-4710-ae2c-e50020ac7eea","id_token_claims":{"at_hash":["M1JGjpV7By0_JV32q6QuVg"],"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"amr":["[]"],"iss":["https://ce-dev2.gluu.org"],"given_name":["inderpal1"],"nonce":["s8ckitiubcjhpmsi8rnk7rbdtd"],"oxValidationURI":["https://ce-dev2.gluu.org/oxauth/opiframe"],"oxOpenIDConnectVersion":["openidconnect-1.0"],"aud":["@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!3AC8.AA36.963B.CA3F"],"acr":["basic"],"updated_at":["20170310081929.180Z"],"auth_time":["1491910674"],"name":["inderpal"],"exp":["1491920510"],"iat":["1491916910"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 01:21:51 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:21:51 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:21:51 PM
+Client: oxd_socket_request144
+
+Tuesday 11th of April 2017 01:21:53 PM
+Client: oxd_socket_response0231{"status":"ok","data":{"claims":{"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"updated_at":["20170310081929.180Z"],"name":["inderpal"],"given_name":["inderpal1"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 01:21:53 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:22:21 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:22:21 PM
+Client: oxd_socket_request634
+
+Tuesday 11th of April 2017 01:22:22 PM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"f576d2c9-1565-408d-8236-545a209fe2fa","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 01:22:22 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:22:22 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:22:22 PM
+Client: oxd_socket_request815
+
+Tuesday 11th of April 2017 01:22:23 PM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"f1631bf6-4328-43da-a31b-a0973a5ba6ca","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 01:22:23 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:22:33 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:22:33 PM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 01:22:33 PM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!EA2C.D38C.7755.C633&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=unhll03dn08ca6lp8ocfteqci2&nonce=21lrg8vki61f5k9fluhs9jfdhd&acr_values=basic"}}
+
+Tuesday 11th of April 2017 01:22:33 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:26:10 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:26:10 PM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 01:26:10 PM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!EA2C.D38C.7755.C633&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=vdobc0ld8f5uhu0s7h7nr5cd4t&nonce=rrk1r0fm36q6p5bbtu43l46mbd&acr_values=basic"}}
+
+Tuesday 11th of April 2017 01:26:10 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:26:12 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:26:12 PM
+Client: oxd_socket_request178
+
+Tuesday 11th of April 2017 01:26:14 PM
+Client: oxd_socket_response1942{"status":"ok","data":{"access_token":"09731543-2717-419e-9ac8-9be718341d82","expires_in":299,"id_token":"eyJraWQiOiJjNWJjYTk4ZS0wNGRhLTQ5NjEtYjQwMC0yMmQ0Yjk5NTM0MjQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwczovL2NlLWRldjIuZ2x1dS5vcmciLCJhdWQiOiJAITgyQTIuODlBOC5GRTBFLjkwREUhMDAwMSFENUYwLjREQjQhMDAwOCFFQTJDLkQzOEMuNzc1NS5DNjMzIiwiZXhwIjoxNDkxOTIwNzczLCJpYXQiOjE0OTE5MTcxNzMsImFjciI6ImJhc2ljIiwiYW1yIjoiW10iLCJub25jZSI6InJyazFyMGZtMzZxNnA1YmJ0dTQzbDQ2bWJkIiwiYXV0aF90aW1lIjoxNDkxOTEwNjc0LCJhdF9oYXNoIjoiek5VOTNjUHEzM05qUHVIbzNKdnpyUSIsIm94VmFsaWRhdGlvblVSSSI6Imh0dHBzOi8vY2UtZGV2Mi5nbHV1Lm9yZy9veGF1dGgvb3BpZnJhbWUiLCJveE9wZW5JRENvbm5lY3RWZXJzaW9uIjoib3BlbmlkY29ubmVjdC0xLjAiLCJuYW1lIjoiaW5kZXJwYWwiLCJmYW1pbHlfbmFtZSI6ImluZGVycGFsMiIsImdpdmVuX25hbWUiOiJpbmRlcnBhbDEiLCJ1cGRhdGVkX2F0IjoiMjAxNzAzMTAwODE5MjkuMTgwWiIsImVtYWlsIjoiaW5kZXJwYWxAdGVzdC5jb20iLCJzdWIiOiJuRXY0eWxmNjgxN1dkbHhiRURNcWxnWVlhb0twUURBcE14eVFuekNNTkFjIn0.JRAkftiNuKs85G8smpvJPEyOWxCJI3jsh2iPl36-KyXc_qcDB4K6aiMPm8BMBZ2T61DPGk_D86PhcNk3HVu9X9EYKgUv-c9lHtpqDpOcuHdGXBobMFLtzqYPrCGQAHYzVBm0Ag_Reh4wtO9ujp2tt-hJGK0tTyVzPv-FQFs2gPower805uRhBACayhkSIIW42jjdeX8M2KKyaphpfbE0WaDCAPVndAVGTvCHZ6U8TOeoIHBSjyjDvugcHVA2uRcis65GKvWUUR0YmsMHH8lMjh1JfejUhQQV3LqLrrAh8E5ET_bIA7IUliYHcy44mdPekpwaJ_s_TlDNZFb1zcsSsg","refresh_token":"cc3b5f0b-a8c7-4d0b-b301-6208393b6dd9","id_token_claims":{"at_hash":["zNU93cPq33NjPuHo3JvzrQ"],"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"amr":["[]"],"iss":["https://ce-dev2.gluu.org"],"given_name":["inderpal1"],"nonce":["rrk1r0fm36q6p5bbtu43l46mbd"],"oxValidationURI":["https://ce-dev2.gluu.org/oxauth/opiframe"],"oxOpenIDConnectVersion":["openidconnect-1.0"],"aud":["@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!EA2C.D38C.7755.C633"],"acr":["basic"],"updated_at":["20170310081929.180Z"],"auth_time":["1491910674"],"name":["inderpal"],"exp":["1491920773"],"iat":["1491917173"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 01:26:14 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:26:14 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:26:14 PM
+Client: oxd_socket_request144
+
+Tuesday 11th of April 2017 01:26:15 PM
+Client: oxd_socket_response0231{"status":"ok","data":{"claims":{"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"updated_at":["20170310081929.180Z"],"name":["inderpal"],"given_name":["inderpal1"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 01:26:15 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:28:42 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:28:42 PM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 01:28:42 PM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!EA2C.D38C.7755.C633&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=lci8cu7uh6jc9ol8gvt3suket2&nonce=4o8iggqen22t4g67ve3af432ie&acr_values=basic"}}
+
+Tuesday 11th of April 2017 01:28:42 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:28:43 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:28:43 PM
+Client: oxd_socket_request178
+
+Tuesday 11th of April 2017 01:28:46 PM
+Client: oxd_socket_response1942{"status":"ok","data":{"access_token":"2e05b320-ed7f-4d65-bc62-6db65441e3ab","expires_in":299,"id_token":"eyJraWQiOiJjNWJjYTk4ZS0wNGRhLTQ5NjEtYjQwMC0yMmQ0Yjk5NTM0MjQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwczovL2NlLWRldjIuZ2x1dS5vcmciLCJhdWQiOiJAITgyQTIuODlBOC5GRTBFLjkwREUhMDAwMSFENUYwLjREQjQhMDAwOCFFQTJDLkQzOEMuNzc1NS5DNjMzIiwiZXhwIjoxNDkxOTIwOTI0LCJpYXQiOjE0OTE5MTczMjQsImFjciI6ImJhc2ljIiwiYW1yIjoiW10iLCJub25jZSI6IjRvOGlnZ3FlbjIydDRnNjd2ZTNhZjQzMmllIiwiYXV0aF90aW1lIjoxNDkxOTEwNjc0LCJhdF9oYXNoIjoiOGpNYmZsNGdLZEc2NUJEM05TOE5IQSIsIm94VmFsaWRhdGlvblVSSSI6Imh0dHBzOi8vY2UtZGV2Mi5nbHV1Lm9yZy9veGF1dGgvb3BpZnJhbWUiLCJveE9wZW5JRENvbm5lY3RWZXJzaW9uIjoib3BlbmlkY29ubmVjdC0xLjAiLCJuYW1lIjoiaW5kZXJwYWwiLCJmYW1pbHlfbmFtZSI6ImluZGVycGFsMiIsImdpdmVuX25hbWUiOiJpbmRlcnBhbDEiLCJ1cGRhdGVkX2F0IjoiMjAxNzAzMTAwODE5MjkuMTgwWiIsImVtYWlsIjoiaW5kZXJwYWxAdGVzdC5jb20iLCJzdWIiOiJuRXY0eWxmNjgxN1dkbHhiRURNcWxnWVlhb0twUURBcE14eVFuekNNTkFjIn0.k7LpnOMCA9aWCVHYUcVyRH-Wm_YBhXnzVu5eAuLHd5Lgfvn6G-WSgeixcoU2J93XGXlAO97V2jYZDJ8Mszxm5rNiOdo8E_Q1twKS368E06xTwxlqCFSjvbon8BTGVqHBmYdEh6IIQWcNAv-Cbdg7FS1ERdJcGsH_1GE9L2Chx8uLbWThsibaxXGoBlpklIZm93M4Bdnh9SWOYwebLQ0pco_pO7Fzra9nroea1btFHvdwVKtDlM_VQob7UZVHQ3dpiRmktTCoTfza1hvnRH3yEzpIy7iKiN5TPcDgWOEzceY4bFFicakVlNmgYzgk0CXhd5jFz9boS-VI_T66BFun-g","refresh_token":"a2dce617-9a05-4260-97a6-dbd65d473631","id_token_claims":{"at_hash":["8jMbfl4gKdG65BD3NS8NHA"],"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"amr":["[]"],"iss":["https://ce-dev2.gluu.org"],"given_name":["inderpal1"],"nonce":["4o8iggqen22t4g67ve3af432ie"],"oxValidationURI":["https://ce-dev2.gluu.org/oxauth/opiframe"],"oxOpenIDConnectVersion":["openidconnect-1.0"],"aud":["@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!EA2C.D38C.7755.C633"],"acr":["basic"],"updated_at":["20170310081929.180Z"],"auth_time":["1491910674"],"name":["inderpal"],"exp":["1491920924"],"iat":["1491917324"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 01:28:46 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:28:46 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:28:46 PM
+Client: oxd_socket_request144
+
+Tuesday 11th of April 2017 01:28:47 PM
+Client: oxd_socket_response0231{"status":"ok","data":{"claims":{"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"updated_at":["20170310081929.180Z"],"name":["inderpal"],"given_name":["inderpal1"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 01:28:47 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:30:35 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:30:35 PM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 01:30:35 PM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!EA2C.D38C.7755.C633&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=lv1f5pe8de2s3mtsbo1sfvse5h&nonce=pn2rau6o08nsn9kslikqmluh3u&acr_values=basic"}}
+
+Tuesday 11th of April 2017 01:30:35 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:30:37 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:30:37 PM
+Client: oxd_socket_request178
+
+Tuesday 11th of April 2017 01:30:39 PM
+Client: oxd_socket_response1942{"status":"ok","data":{"access_token":"84cdae5b-e564-4099-82ea-42deb66f43ca","expires_in":299,"id_token":"eyJraWQiOiJjNWJjYTk4ZS0wNGRhLTQ5NjEtYjQwMC0yMmQ0Yjk5NTM0MjQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwczovL2NlLWRldjIuZ2x1dS5vcmciLCJhdWQiOiJAITgyQTIuODlBOC5GRTBFLjkwREUhMDAwMSFENUYwLjREQjQhMDAwOCFFQTJDLkQzOEMuNzc1NS5DNjMzIiwiZXhwIjoxNDkxOTIxMDM4LCJpYXQiOjE0OTE5MTc0MzgsImFjciI6ImJhc2ljIiwiYW1yIjoiW10iLCJub25jZSI6InBuMnJhdTZvMDhuc245a3NsaWtxbWx1aDN1IiwiYXV0aF90aW1lIjoxNDkxOTEwNjc0LCJhdF9oYXNoIjoiNU56UWxfNWx6NXN6dzNxU3VpcVBmZyIsIm94VmFsaWRhdGlvblVSSSI6Imh0dHBzOi8vY2UtZGV2Mi5nbHV1Lm9yZy9veGF1dGgvb3BpZnJhbWUiLCJveE9wZW5JRENvbm5lY3RWZXJzaW9uIjoib3BlbmlkY29ubmVjdC0xLjAiLCJuYW1lIjoiaW5kZXJwYWwiLCJmYW1pbHlfbmFtZSI6ImluZGVycGFsMiIsImdpdmVuX25hbWUiOiJpbmRlcnBhbDEiLCJ1cGRhdGVkX2F0IjoiMjAxNzAzMTAwODE5MjkuMTgwWiIsImVtYWlsIjoiaW5kZXJwYWxAdGVzdC5jb20iLCJzdWIiOiJuRXY0eWxmNjgxN1dkbHhiRURNcWxnWVlhb0twUURBcE14eVFuekNNTkFjIn0.hZuEOdoYeDRrc2xyNS_F4WhH93uEZ7olNCTREuCkRurM48qQhoIlZo6RW0fVlPO443EHnfzm2PhmSJ5L9XzHmERqWTWcr9Knm51_ARteD5ioVo-evG2cK2fQdCCOFV9lPzihMcb9802auvztc_V7V-dJA3rMZKqR80St_1MBlumt2PWXrTIefJj0W2KrCoTmSRQtVU3wVJcipS2j1bd7GDNrBdoTW5nB_mSV7WahuRdoV2zLr19iN8c-9zuwiCFOo4fV_DZ1a2-Be7CIdM1aSFMwuol_tmW79z0wXSZnY3gMTCpFMUo9s4ExeBYbQ7JrhQ0tGOEPcvZM5fm71roxcA","refresh_token":"b3637a19-a6c3-44ec-87da-418a9c26c002","id_token_claims":{"at_hash":["5NzQl_5lz5szw3qSuiqPfg"],"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"amr":["[]"],"iss":["https://ce-dev2.gluu.org"],"given_name":["inderpal1"],"nonce":["pn2rau6o08nsn9kslikqmluh3u"],"oxValidationURI":["https://ce-dev2.gluu.org/oxauth/opiframe"],"oxOpenIDConnectVersion":["openidconnect-1.0"],"aud":["@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!EA2C.D38C.7755.C633"],"acr":["basic"],"updated_at":["20170310081929.180Z"],"auth_time":["1491910674"],"name":["inderpal"],"exp":["1491921038"],"iat":["1491917438"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 01:30:39 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:30:39 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:30:39 PM
+Client: oxd_socket_request144
+
+Tuesday 11th of April 2017 01:30:40 PM
+Client: oxd_socket_response0231{"status":"ok","data":{"claims":{"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"updated_at":["20170310081929.180Z"],"name":["inderpal"],"given_name":["inderpal1"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 01:30:40 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:32:08 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:32:08 PM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 01:32:08 PM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!EA2C.D38C.7755.C633&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=n42hd9vd52cqfrspeot8prv3uu&nonce=2g0ksehe3lqam684dp3prnqsfe&acr_values=basic"}}
+
+Tuesday 11th of April 2017 01:32:08 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:32:10 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:32:10 PM
+Client: oxd_socket_request178
+
+Tuesday 11th of April 2017 01:32:12 PM
+Client: oxd_socket_response1942{"status":"ok","data":{"access_token":"6e72af25-cc6d-4959-a36b-37199849e51c","expires_in":299,"id_token":"eyJraWQiOiJjNWJjYTk4ZS0wNGRhLTQ5NjEtYjQwMC0yMmQ0Yjk5NTM0MjQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwczovL2NlLWRldjIuZ2x1dS5vcmciLCJhdWQiOiJAITgyQTIuODlBOC5GRTBFLjkwREUhMDAwMSFENUYwLjREQjQhMDAwOCFFQTJDLkQzOEMuNzc1NS5DNjMzIiwiZXhwIjoxNDkxOTIxMTMxLCJpYXQiOjE0OTE5MTc1MzEsImFjciI6ImJhc2ljIiwiYW1yIjoiW10iLCJub25jZSI6IjJnMGtzZWhlM2xxYW02ODRkcDNwcm5xc2ZlIiwiYXV0aF90aW1lIjoxNDkxOTEwNjc0LCJhdF9oYXNoIjoiRHZtWnJ4dFdVQ2VlYU5pMXFYR0llUSIsIm94VmFsaWRhdGlvblVSSSI6Imh0dHBzOi8vY2UtZGV2Mi5nbHV1Lm9yZy9veGF1dGgvb3BpZnJhbWUiLCJveE9wZW5JRENvbm5lY3RWZXJzaW9uIjoib3BlbmlkY29ubmVjdC0xLjAiLCJuYW1lIjoiaW5kZXJwYWwiLCJmYW1pbHlfbmFtZSI6ImluZGVycGFsMiIsImdpdmVuX25hbWUiOiJpbmRlcnBhbDEiLCJ1cGRhdGVkX2F0IjoiMjAxNzAzMTAwODE5MjkuMTgwWiIsImVtYWlsIjoiaW5kZXJwYWxAdGVzdC5jb20iLCJzdWIiOiJuRXY0eWxmNjgxN1dkbHhiRURNcWxnWVlhb0twUURBcE14eVFuekNNTkFjIn0.gl2mcbJL_NQX7duNmaBLtM3DSrAwGX49HaT_wllDihy1GVtiX8gXXyLZLdI-gOIQ0muxCSBTLIaC20Y3rmeu5TJ1tWV1t7n_fH9br9WzH-E8a5xcbDO1qGbU1xAuZ51gm-zbXmr_-ISP5DWPzspwUjy1ThyRjsPGQIyHyWXFB35Y2FmXHABuP9jBaUh8rZuE1Dpe2AQdiucee4rficf0DPtjf74wmq5304Ypltd0je80hrv2KxKZZMeCpIDqpNeBNOSLF4-s4jB-Eu1n-EKpuALZ60FxZe9OXXlA4QK9wXXqIip7bWe3OgesuRsyOKRjKAGDwMEwtGYOD-rJDCIalA","refresh_token":"dd7ef8d0-440c-4f8a-a3ee-7f0b90c54fde","id_token_claims":{"at_hash":["DvmZrxtWUCeeaNi1qXGIeQ"],"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"amr":["[]"],"iss":["https://ce-dev2.gluu.org"],"given_name":["inderpal1"],"nonce":["2g0ksehe3lqam684dp3prnqsfe"],"oxValidationURI":["https://ce-dev2.gluu.org/oxauth/opiframe"],"oxOpenIDConnectVersion":["openidconnect-1.0"],"aud":["@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!EA2C.D38C.7755.C633"],"acr":["basic"],"updated_at":["20170310081929.180Z"],"auth_time":["1491910674"],"name":["inderpal"],"exp":["1491921131"],"iat":["1491917531"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 01:32:12 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:32:12 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:32:12 PM
+Client: oxd_socket_request144
+
+Tuesday 11th of April 2017 01:32:13 PM
+Client: oxd_socket_response0231{"status":"ok","data":{"claims":{"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"updated_at":["20170310081929.180Z"],"name":["inderpal"],"given_name":["inderpal1"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 01:32:13 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:33:56 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:33:56 PM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 01:33:56 PM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!EA2C.D38C.7755.C633&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=r04h2u3gmo4gu6gu5jucnmvagf&nonce=oocas3bbtt88ac1u9s185t1362&acr_values=basic"}}
+
+Tuesday 11th of April 2017 01:33:56 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:34:07 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:34:07 PM
+Client: oxd_socket_request178
+
+Tuesday 11th of April 2017 01:34:12 PM
+Client: oxd_socket_response1942{"status":"ok","data":{"access_token":"cbc1e37f-678c-47ca-8d99-4f87d26d9d0a","expires_in":299,"id_token":"eyJraWQiOiJjNWJjYTk4ZS0wNGRhLTQ5NjEtYjQwMC0yMmQ0Yjk5NTM0MjQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwczovL2NlLWRldjIuZ2x1dS5vcmciLCJhdWQiOiJAITgyQTIuODlBOC5GRTBFLjkwREUhMDAwMSFENUYwLjREQjQhMDAwOCFFQTJDLkQzOEMuNzc1NS5DNjMzIiwiZXhwIjoxNDkxOTIxMjUwLCJpYXQiOjE0OTE5MTc2NTAsImFjciI6ImJhc2ljIiwiYW1yIjoiW10iLCJub25jZSI6Im9vY2FzM2JidHQ4OGFjMXU5czE4NXQxMzYyIiwiYXV0aF90aW1lIjoxNDkxOTE3NjQ2LCJhdF9oYXNoIjoiUnFzcUhsTFZnR3ZxZ3FqQWlfS2JYQSIsIm94VmFsaWRhdGlvblVSSSI6Imh0dHBzOi8vY2UtZGV2Mi5nbHV1Lm9yZy9veGF1dGgvb3BpZnJhbWUiLCJveE9wZW5JRENvbm5lY3RWZXJzaW9uIjoib3BlbmlkY29ubmVjdC0xLjAiLCJuYW1lIjoiaW5kZXJwYWwiLCJmYW1pbHlfbmFtZSI6ImluZGVycGFsMiIsImdpdmVuX25hbWUiOiJpbmRlcnBhbDEiLCJ1cGRhdGVkX2F0IjoiMjAxNzAzMTAwODE5MjkuMTgwWiIsImVtYWlsIjoiaW5kZXJwYWxAdGVzdC5jb20iLCJzdWIiOiJuRXY0eWxmNjgxN1dkbHhiRURNcWxnWVlhb0twUURBcE14eVFuekNNTkFjIn0.ND5QzYG0vaya8M5dW1hRQJY-6B-q-n56TfBTom7rsBLmusmk_yC8KXJ_woVJq4Dkc937_UuXiL900s6dYUUFjI7_V9ltjJ4qS_HKV2JHu3bgwCzFu_b2Bvz1e5x0ctiM998ch3LpA8-SZEZ63luIRtGX3Ph-ojSnuXf6XQKDcm3_B04Egp8UQ223M2Ubk8zbcTzdBT7DzBRJBOkdA_LgzFk5lRTc980iRBlWZN5qwDv4aDvhE0XNVC8hZcblU1va-dlqnCHX5S1VgGK8lBuYV15oK6wfLwp6huzpgIWiHmyh6uoMIxGls-RYGJpeWTZPujkhwpVDlmPrdeJSVULBrQ","refresh_token":"2ec12199-34fd-4e0f-9da1-afcb43cf57ac","id_token_claims":{"at_hash":["RqsqHlLVgGvqgqjAi_KbXA"],"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"amr":["[]"],"iss":["https://ce-dev2.gluu.org"],"given_name":["inderpal1"],"nonce":["oocas3bbtt88ac1u9s185t1362"],"oxValidationURI":["https://ce-dev2.gluu.org/oxauth/opiframe"],"oxOpenIDConnectVersion":["openidconnect-1.0"],"aud":["@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!EA2C.D38C.7755.C633"],"acr":["basic"],"updated_at":["20170310081929.180Z"],"auth_time":["1491917646"],"name":["inderpal"],"exp":["1491921250"],"iat":["1491917650"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 01:34:12 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:34:12 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:34:12 PM
+Client: oxd_socket_request144
+
+Tuesday 11th of April 2017 01:34:13 PM
+Client: oxd_socket_response0231{"status":"ok","data":{"claims":{"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"updated_at":["20170310081929.180Z"],"name":["inderpal"],"given_name":["inderpal1"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 01:34:13 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:46:25 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:46:25 PM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 01:46:25 PM
+Client: oxd_socket_response0378{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!EA2C.D38C.7755.C633&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=lpkrkppdng0iog4jquali5lusm&nonce=2anvss56n93d39njuuv7dndjb&acr_values=basic"}}
+
+Tuesday 11th of April 2017 01:46:25 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:47:12 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:47:12 PM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 01:47:12 PM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!EA2C.D38C.7755.C633&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=ffi8h16h9kd6tq4fel4k963g5g&nonce=tmvf2ctbe31fdmna5fn8rip7vl&acr_values=basic"}}
+
+Tuesday 11th of April 2017 01:47:12 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:53:32 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:53:32 PM
+Client: oxd_socket_request634
+
+Tuesday 11th of April 2017 01:53:34 PM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"dc1ac434-aacf-4bcd-aef8-8c41f99511b3","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 01:53:34 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:53:34 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:53:34 PM
+Client: oxd_socket_request815
+
+Tuesday 11th of April 2017 01:53:35 PM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"3fdf91f2-b659-4670-9a83-18a19422ca2e","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 01:53:35 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:54:06 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:54:06 PM
+Client: oxd_socket_request634
+
+Tuesday 11th of April 2017 01:54:07 PM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"d196000e-549a-4cc3-9a11-218b3f15cf66","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 01:54:07 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:54:07 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:54:07 PM
+Client: oxd_socket_request815
+
+Tuesday 11th of April 2017 01:54:08 PM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"e7786181-db1a-4619-a3cb-8c5ab12759f9","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 01:54:08 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:54:35 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:54:35 PM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 01:54:35 PM
+Client: oxd_socket_response0378{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!4C1C.8BE6.5065.549E&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=1vqfkn0vdjo42igc56f7v84gji&nonce=kki8ista1s5uvs7vu9kp95ede&acr_values=basic"}}
+
+Tuesday 11th of April 2017 01:54:35 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:56:33 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:56:33 PM
+Client: oxd_socket_request634
+
+Tuesday 11th of April 2017 01:56:34 PM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"b16bb6b4-565d-4c93-b881-c31a8e326f18","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 01:56:34 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:56:34 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:56:34 PM
+Client: oxd_socket_request815
+
+Tuesday 11th of April 2017 01:56:36 PM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"a848ba8c-9074-433e-890e-d8100d5758bc","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 01:56:36 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:56:51 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:56:51 PM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 01:56:51 PM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!883C.383F.304E.BCE9&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=qfc7h6jm1gdqc9s3cd0lh24dsl&nonce=eiiaqciatdar8sml361veckkio&acr_values=basic"}}
+
+Tuesday 11th of April 2017 01:56:51 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 01:57:06 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 01:57:06 PM
+Client: oxd_socket_request178
+
+Tuesday 11th of April 2017 01:57:09 PM
+Client: oxd_socket_response1942{"status":"ok","data":{"access_token":"f3c39a30-6323-4646-b90e-8fd869aa0e96","expires_in":299,"id_token":"eyJraWQiOiJjNWJjYTk4ZS0wNGRhLTQ5NjEtYjQwMC0yMmQ0Yjk5NTM0MjQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwczovL2NlLWRldjIuZ2x1dS5vcmciLCJhdWQiOiJAITgyQTIuODlBOC5GRTBFLjkwREUhMDAwMSFENUYwLjREQjQhMDAwOCE4ODNDLjM4M0YuMzA0RS5CQ0U5IiwiZXhwIjoxNDkxOTIyNjI3LCJpYXQiOjE0OTE5MTkwMjcsImFjciI6ImJhc2ljIiwiYW1yIjoiW10iLCJub25jZSI6ImVpaWFxY2lhdGRhcjhzbWwzNjF2ZWNra2lvIiwiYXV0aF90aW1lIjoxNDkxOTE5MDIyLCJhdF9oYXNoIjoiQkRUTHpvUjRTNnlHMjM4QWVzWEUtZyIsIm94VmFsaWRhdGlvblVSSSI6Imh0dHBzOi8vY2UtZGV2Mi5nbHV1Lm9yZy9veGF1dGgvb3BpZnJhbWUiLCJveE9wZW5JRENvbm5lY3RWZXJzaW9uIjoib3BlbmlkY29ubmVjdC0xLjAiLCJuYW1lIjoiaW5kZXJwYWwiLCJmYW1pbHlfbmFtZSI6ImluZGVycGFsMiIsImdpdmVuX25hbWUiOiJpbmRlcnBhbDEiLCJ1cGRhdGVkX2F0IjoiMjAxNzAzMTAwODE5MjkuMTgwWiIsImVtYWlsIjoiaW5kZXJwYWxAdGVzdC5jb20iLCJzdWIiOiJuRXY0eWxmNjgxN1dkbHhiRURNcWxnWVlhb0twUURBcE14eVFuekNNTkFjIn0.FT358Q4kixE4APbETdNTHlryWXWf8W3TDX1AC4g4XHIw0t7E4hxQ92ry16fDhNo7OtgddGuFWN_5e1Xxo1FdZfqCXQ_eMuSdsyl6cv1DM6OVhnIRopL3QcIdvbhqJ489n1xnSQMTwrJQ-Xzje1_hAh9FMkzLMECgVz2KpqFR6FHoVgpFsvHkiVKn2yaCH_2XCTW4nwQwknlyAfWprGuA7r_CxCv4-gXZWw6a_ye1EA6Ffr0d6yNRISWNiHtX2Mawq_KItNoIh5X6Nm3-aBvPNN9nLezXu8Mm5jwZWQbtCPtwD-mtJqsOLIUmxAI-g4SJtpE0CnC3N96v4uEiodmlyQ","refresh_token":"0be43689-6c19-4bb3-876f-161b83ce3a6c","id_token_claims":{"at_hash":["BDTLzoR4S6yG238AesXE-g"],"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"amr":["[]"],"iss":["https://ce-dev2.gluu.org"],"given_name":["inderpal1"],"nonce":["eiiaqciatdar8sml361veckkio"],"oxValidationURI":["https://ce-dev2.gluu.org/oxauth/opiframe"],"oxOpenIDConnectVersion":["openidconnect-1.0"],"aud":["@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!883C.383F.304E.BCE9"],"acr":["basic"],"updated_at":["20170310081929.180Z"],"auth_time":["1491919022"],"name":["inderpal"],"exp":["1491922627"],"iat":["1491919027"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 01:57:09 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 02:06:59 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 02:06:59 PM
+Client: oxd_socket_request634
+
+Tuesday 11th of April 2017 02:07:00 PM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"7b38d4af-8e5e-4fbb-9e83-1528b348e2b5","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 02:07:00 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 02:07:00 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 02:07:00 PM
+Client: oxd_socket_request815
+
+Tuesday 11th of April 2017 02:07:01 PM
+Client: oxd_socket_response0110{"status":"ok","data":{"oxd_id":"9a93dd65-9cb2-448b-a9a3-583b67f89124","op_host":"https://ce-dev2.gluu.org/"}}
+
+Tuesday 11th of April 2017 02:07:01 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 02:07:11 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 02:07:11 PM
+Client: oxd_socket_request182
+
+Tuesday 11th of April 2017 02:07:11 PM
+Client: oxd_socket_response0379{"status":"ok","data":{"authorization_url":"https://ce-dev2.gluu.org/oxauth/seam/resource/restv1/oxauth/authorize?response_type=code&client_id=@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!145E.744C.6DF7.C81B&redirect_uri=https://drupal-oxd.com//gluu_sso/gluuslogout.php&scope=openid+profile+email&state=t92ccrb3hmuj8uk8ajubch2eh2&nonce=jro2qfq861cqua51te0g5podqv&acr_values=basic"}}
+
+Tuesday 11th of April 2017 02:07:11 PM
+Client: oxd_socket_connectiondisconnected.
+
+Tuesday 11th of April 2017 02:07:30 PM
+Client: socket::socket_connectsocket connected
+
+Tuesday 11th of April 2017 02:07:30 PM
+Client: oxd_socket_request178
+
+Tuesday 11th of April 2017 02:07:33 PM
+Client: oxd_socket_response1942{"status":"ok","data":{"access_token":"c6686956-9693-47fc-8fce-116fca355519","expires_in":299,"id_token":"eyJraWQiOiJjNWJjYTk4ZS0wNGRhLTQ5NjEtYjQwMC0yMmQ0Yjk5NTM0MjQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwczovL2NlLWRldjIuZ2x1dS5vcmciLCJhdWQiOiJAITgyQTIuODlBOC5GRTBFLjkwREUhMDAwMSFENUYwLjREQjQhMDAwOCExNDVFLjc0NEMuNkRGNy5DODFCIiwiZXhwIjoxNDkxOTIzMjUxLCJpYXQiOjE0OTE5MTk2NTEsImFjciI6ImJhc2ljIiwiYW1yIjoiW10iLCJub25jZSI6ImpybzJxZnE4NjFjcXVhNTF0ZTBnNXBvZHF2IiwiYXV0aF90aW1lIjoxNDkxOTE5NjQ1LCJhdF9oYXNoIjoiY19SXy1SNnZobG1jSlJXVzF6N1hEdyIsIm94VmFsaWRhdGlvblVSSSI6Imh0dHBzOi8vY2UtZGV2Mi5nbHV1Lm9yZy9veGF1dGgvb3BpZnJhbWUiLCJveE9wZW5JRENvbm5lY3RWZXJzaW9uIjoib3BlbmlkY29ubmVjdC0xLjAiLCJuYW1lIjoiaW5kZXJwYWwiLCJmYW1pbHlfbmFtZSI6ImluZGVycGFsMiIsImdpdmVuX25hbWUiOiJpbmRlcnBhbDEiLCJ1cGRhdGVkX2F0IjoiMjAxNzAzMTAwODE5MjkuMTgwWiIsImVtYWlsIjoiaW5kZXJwYWxAdGVzdC5jb20iLCJzdWIiOiJuRXY0eWxmNjgxN1dkbHhiRURNcWxnWVlhb0twUURBcE14eVFuekNNTkFjIn0.mrjrRLlor7UcT41CyidylNnft9WX_oK2Ocdj3e1_tJpY8wsVsth21TuXfebObv1sEqpELpX3hrDXTLxbEyIXiqb_PpkXoABv8fPUvVzvux-t_p_rzoroA9V0TX6qH2pJIT0aeRKRickQrRo3Qp-Shh3dK1Uu2oec8xtsmKdNTvhwgFCOtIsSpuFAMkRoCAXL7rBDe-bMrTXEqRYekTWVlyrIiu-OdaDLmLkbk1HvUIJ5UJ0JI9X3HiPgBinVc1VdTca5pQ6w8MrOPGMEWTsyf8ywa3jqU6DO5GL59zI6TB8B4DJ11v6h9cSOfZUwCOO8Iv-jY4l4mOvRBZuO3n43Wg","refresh_token":"d871704e-651a-4c2f-b41f-b8da256d5893","id_token_claims":{"at_hash":["c_R_-R6vhlmcJRWW1z7XDw"],"sub":["nEv4ylf6817WdlxbEDMqlgYYaoKpQDApMxyQnzCMNAc"],"amr":["[]"],"iss":["https://ce-dev2.gluu.org"],"given_name":["inderpal1"],"nonce":["jro2qfq861cqua51te0g5podqv"],"oxValidationURI":["https://ce-dev2.gluu.org/oxauth/opiframe"],"oxOpenIDConnectVersion":["openidconnect-1.0"],"aud":["@!82A2.89A8.FE0E.90DE!0001!D5F0.4DB4!0008!145E.744C.6DF7.C81B"],"acr":["basic"],"updated_at":["20170310081929.180Z"],"auth_time":["1491919645"],"name":["inderpal"],"exp":["1491923251"],"iat":["1491919651"],"family_name":["inderpal2"],"email":["inderpal@test.com"]}}}
+
+Tuesday 11th of April 2017 02:07:33 PM
+Client: oxd_socket_connectiondisconnected.

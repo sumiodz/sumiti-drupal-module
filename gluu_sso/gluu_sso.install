@@ -1,0 +1,16 @@
+<?php
+/***
+table install
+**/
+
+function gluu_sso_uninstall() {
+  $config = \Drupal::configFactory()->getEditable('gluu_sso.default');
+  $config->clear('openidurl');
+  $config->clear('gluu_custom_logout');
+  $config->clear('oxd_port');
+  $config->clear('gluu_oxd_id');
+  $config->clear('gluu_users_can_register');
+  $config->clear('gluu_user_role');
+  $config->save();
+}
+?>

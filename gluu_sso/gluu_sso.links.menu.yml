@@ -1,0 +1,12 @@
+# gluu_sso.demo:
+#    title: 'Login by OpenID Provider'
+#    description: 'Login by OpenID Provider'
+#    parent: main
+#    menu_name: main
+#    route_name: gluu_sso.gluusso_login
+gluu_sso.default_form:
+  title: 'OpenID Connect'
+  route_name: gluu_sso.default_form
+  description: 'This module will enable you to authenticate users against any standard OpenID Provider (OP)'
+  parent: system.admin_config_system
+  weight: 99
