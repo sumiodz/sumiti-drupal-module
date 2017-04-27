@@ -3,7 +3,9 @@
     "type": "drupal-module",
     "require": {
       "autoload": {
-          "psr-4": {"Drupal\\gluu_sso\\Controller\\": "src/"}
+          "psr-4": {
+            "Drupal\\gluu_sso\\Controller\\": "src/"
+          }
       }
     },
     "extra": {
