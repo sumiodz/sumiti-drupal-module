@@ -1,14 +1,14 @@
 {
-    "name": "oxd-drupal8/gluu_sso",
-    "type": "drupal-module",
-    "require": {
-      "autoload": {
-          "psr-4": {
-            "Drupal\\gluu_sso\\Controller\\": "src/"
-          }
-      }
-    },
-    "extra": {
-        "installer-name": "gluu_sso"
-    }
+  "name": "oxd-drupal8/gluu_sso",
+  "type": "drupal-module",
+  "description": "This module will enable you to authenticate users against any standard OpenID Connect Provider.",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://github.com/sumiodz/sumiti-drupal-module",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://github.com/sumiodz/sumiti-drupal-module",
+    "source": "https://github.com/sumiodz/sumiti-drupal-module"
+  },
+  "require": { }
 }
