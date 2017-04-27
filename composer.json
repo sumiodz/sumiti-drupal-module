@@ -1,8 +1,8 @@
 {
-    "name": "oxd-drupal8/gluu_sso",
-    "type": "drupal-module",
-    "require": {},
-    "extra": {
-        "installer-name": "gluu_sso"
-    }
+  "name": "oxd-drupal8/gluu_sso",
+  "description": "opnenid",
+  "type": "drupal-module",
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "require": { }
 }
