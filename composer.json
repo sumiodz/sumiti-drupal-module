@@ -1,13 +1,7 @@
 {
     "name": "oxd-drupal8/gluu_sso",
     "type": "drupal-module",
-    "require": {
-      "autoload": {
-          "psr-4": {
-              "Drupal\\gluu_sso\\Controller\\": "src/"
-          }
-      }
-    },
+    "require": {},
     "extra": {
         "installer-name": "gluu_sso"
     }
