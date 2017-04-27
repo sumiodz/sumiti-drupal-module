@@ -13,7 +13,7 @@
         }
     ],
     "autoload": {
-        "psr-4": {"Drupal\\gluu_sso\\Controller": "src/"}
+        "psr-4": {"Drupal\\gluu_sso\\Controller\\": "src/"}
     },
     "autoload-dev": {
         "psr-4": {
