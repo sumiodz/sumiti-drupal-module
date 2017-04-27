@@ -1,5 +1,5 @@
 {
-    "name": "drupal/gluu_sso",
+    "name": "oxd-drupal8/gluu_sso",
     "type": "drupal-module",
     "require": {
       "autoload": {
